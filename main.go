@@ -52,7 +52,7 @@ func fetchProxyList() []string {
 }
 
 func flooder() {
-	url := "https://www.ul.se/" // Replace with your API endpoint
+	url := "https://chat.ace.teliacompany.net/23/chatRequest" // Replace with your API endpoint
 	uid, err := uuid.NewUUID()
 	if err != nil {
 		fmt.Printf("Error generating UUID: %s\n", err)
