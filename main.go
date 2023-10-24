@@ -23,7 +23,7 @@ func main() {
 
 	for {
 		go flooder()
-		time.Sleep(time.Millisecond * 1)
+		time.Sleep(time.Millisecond * 100)
 	}
 }
 
