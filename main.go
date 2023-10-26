@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"strconv"
 	"strings"
+	"time"
 
 	"github.com/valyala/fasthttp"
 )
@@ -19,8 +20,7 @@ func main() {
 	fmt.Println("loading sms :: atomic/scripts/smsbomb")
 	for {
 		StartALL()
-		StartALL()
-		StartALL()
+		time.Sleep(time.Millisecond * 1)
 	}
 }
 
