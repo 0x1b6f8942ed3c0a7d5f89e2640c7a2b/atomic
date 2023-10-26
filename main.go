@@ -11,7 +11,6 @@ import (
 	"time"
 
 	"github.com/valyala/fasthttp"
-	"github.com/valyala/fasthttp/fasthttpproxy"
 )
 
 func main() {
@@ -88,11 +87,7 @@ func Telia1() {
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
-	client := &fasthttp.Client{
-		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
-	}
-
-	err := client.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 	if err != nil {
 
 	} else {
@@ -129,11 +124,7 @@ func Laddkod() {
 	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
 	req.SetRequestURI(url)
 
-	client := &fasthttp.Client{
-		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
-	}
-
-	err := client.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 	if err != nil {
 
 	} else {
@@ -147,7 +138,7 @@ func ProdMobil2() {
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
-	data := `{"hash":"Mqu2VBd7S9Tf3lQ74PogIytnuiw=","clientId":"4a458cd7-b311-4676-b479-00f3ec583a93","messageService":"APP","messageType":"REGISTER_DEVICE_REQUEST","message":"{\"msisdn\":\"46706505038\",\"deviceId\":\"9f065f6d979246ed81c63cfe4fbaef39\",\"companyCode\":\"MP\",\"requestId\":null,\"deviceKey\":null,\"userId\":null,\"platform\":\"iOS\",\"osVersion\":\"16.2.0\",\"appVersionNumber\":\"1.4.33\",\"appBuildNumber\":\"2023.10.09.1\"}","requestId":null,"synchronous":true}` // Fixed the JSON formatting issue
+	data := `{"hash":"Mqu2VBd7S9Tf3lQ74PogIytnuiw=","fasthttpId":"4a458cd7-b311-4676-b479-00f3ec583a93","messageService":"APP","messageType":"REGISTER_DEVICE_REQUEST","message":"{\"msisdn\":\"46706505038\",\"deviceId\":\"9f065f6d979246ed81c63cfe4fbaef39\",\"companyCode\":\"MP\",\"requestId\":null,\"deviceKey\":null,\"userId\":null,\"platform\":\"iOS\",\"osVersion\":\"16.2.0\",\"appVersionNumber\":\"1.4.33\",\"appBuildNumber\":\"2023.10.09.1\"}","requestId":null,"synchronous":true}` // Fixed the JSON formatting issue
 
 	req := fasthttp.AcquireRequest()
 	resp := fasthttp.AcquireResponse()
@@ -173,11 +164,7 @@ func ProdMobil2() {
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
-	client := &fasthttp.Client{
-		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
-	}
-
-	err := client.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 	if err != nil {
 
 	} else {
