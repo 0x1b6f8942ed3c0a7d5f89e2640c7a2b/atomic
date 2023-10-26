@@ -1,6 +1,6 @@
 module main
 
-go 1.21.3
+go 1.21
 
 require github.com/valyala/fasthttp v1.50.0
 
