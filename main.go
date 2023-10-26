@@ -44,18 +44,16 @@ func fetchProxies(uri string) []string {
 
 func StartALL() {
 
-	for i := 5; i < 0; i++ {
-		go func() {
-			Telia1()
-		}()
-		go func() {
-			ProdMobil2()
-		}()
-		go func() {
-			Laddkod()
-		}()
+	go func() {
+		Telia1()
+	}()
+	go func() {
+		ProdMobil2()
+	}()
+	go func() {
+		Laddkod()
+	}()
 
-	}
 }
 func Telia1() {
 
