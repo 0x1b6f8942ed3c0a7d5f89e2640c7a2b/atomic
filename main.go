@@ -88,7 +88,7 @@ func Telia1() {
 	if err != nil {
 
 	} else {
-		fmt.Println("[" + url + "] - [" + strconv.Itoa(resp.StatusCode()) + "] :: " + proxy)
+		color.Println("[<fg=red>" + url + "</>] - [<fg=green>" + strconv.Itoa(resp.StatusCode()) + "</>] :: " + proxy)
 
 	}
 
@@ -128,7 +128,7 @@ func Laddkod() {
 	if err != nil {
 
 	} else {
-		fmt.Println("[" + url + "] - [" + strconv.Itoa(resp.StatusCode()) + "] :: " + proxy)
+		color.Println("[<fg=red>" + url + "</>] - [<fg=green>" + strconv.Itoa(resp.StatusCode()) + "</>] :: " + proxy)
 
 	}
 }
@@ -170,7 +170,7 @@ func ProdMobil2() {
 	if err != nil {
 
 	} else {
-		fmt.Println("[" + url + "] - [" + strconv.Itoa(resp.StatusCode()) + "] :: " + proxy)
+		color.Println("[<fg=red>" + url + "</>] - [<fg=green>" + strconv.Itoa(resp.StatusCode()) + "</>] :: " + proxy)
 
 	}
 
