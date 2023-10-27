@@ -59,7 +59,7 @@ func StartALL() {
 }
 func Telia1() {
 
-	url := "https://sa.telia.se/se/rs/users/msisdn" // Replace with your API endpoint
+	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -103,7 +103,7 @@ func Telia1() {
 }
 func Laddkod() {
 
-	url := "https://teliase.smartrefill.se/Refill/api/TELIA/v1/passwords/0706505038" // Replace with your API endpoint
+	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -143,7 +143,7 @@ func Laddkod() {
 }
 func ProdMobil2() {
 
-	url := "https://prod2.mobill.se/mspRequest" // Replace with your API endpoint
+	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
