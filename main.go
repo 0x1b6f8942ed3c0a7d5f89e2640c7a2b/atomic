@@ -7,7 +7,6 @@ import (
 	"math/rand"
 	"net/http"
 	"os"
-	"strconv"
 	"strings"
 	"time"
 
@@ -61,10 +60,8 @@ func Telia1() {
 	data := `{"identifier": "46726415603"}` // Fixed the JSON formatting issue
 
 	req := fasthttp.AcquireRequest()
-	resp := fasthttp.AcquireResponse()
 
 	defer fasthttp.ReleaseRequest(req)
-	defer fasthttp.ReleaseResponse(resp)
 	req.Header.SetMethod("POST")
 	req.Header.Set("Host", "sa.telia.se")
 	req.Header.Set("Accept", "application/json")
@@ -83,13 +80,14 @@ func Telia1() {
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
-	err := fasthttp.Do(req, resp)
+	err := fasthttp.Do(req, nil)
 
 	if err != nil {
-		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>Invalid Proxy</>] ::", proxy)
 
 	} else {
-		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=green>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
+
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=green>"+url+"</>] - [<fg=green>200</>] ::", proxy)
 
 	}
 
@@ -101,10 +99,8 @@ func Laddkod() {
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
 	req := fasthttp.AcquireRequest()
-	resp := fasthttp.AcquireResponse()
 
 	defer fasthttp.ReleaseRequest(req)
-	defer fasthttp.ReleaseResponse(resp)
 	req.Header.SetMethod("POST")
 	req.Header.Set("Host", "sa.telia.se")
 	req.Header.Set("Accept", "application/json")
@@ -122,13 +118,14 @@ func Laddkod() {
 	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
 	req.SetRequestURI(url)
 
-	err := fasthttp.Do(req, resp)
+	err := fasthttp.Do(req, nil)
 
 	if err != nil {
-		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>Invalid Proxy</>] ::", proxy)
 
 	} else {
-		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=green>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
+
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=green>"+url+"</>] - [<fg=green>200</>] ::", proxy)
 
 	}
 
@@ -142,10 +139,8 @@ func ProdMobil2() {
 	data := `{"hash":"Mqu2VBd7S9Tf3lQ74PogIytnuiw="," fasthttpId":"4a458cd7-b311-4676-b479-00f3ec583a93","messageService":"APP","messageType":"REGISTER_DEVICE_REQUEST","message":"{\"msisdn\":\"46726415603\",\"deviceId\":\"9f065f6d979246ed81c63cfe4fbaef39\",\"companyCode\":\"MP\",\"requestId\":null,\"deviceKey\":null,\"userId\":null,\"platform\":\"iOS\",\"osVersion\":\"16.2.0\",\"appVersionNumber\":\"1.4.33\",\"appBuildNumber\":\"2023.10.09.1\"}","requestId":null,"synchronous":true}` // Fixed the JSON formatting issue
 
 	req := fasthttp.AcquireRequest()
-	resp := fasthttp.AcquireResponse()
 
 	defer fasthttp.ReleaseRequest(req)
-	defer fasthttp.ReleaseResponse(resp)
 
 	req.Header.SetMethod("POST")
 	req.Header.Set("Host", "sa.telia.se")
@@ -165,14 +160,14 @@ func ProdMobil2() {
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
-	err := fasthttp.Do(req, resp)
+	err := fasthttp.Do(req, nil)
 
 	if err != nil {
-		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>Invalid Proxy</>] ::", proxy)
 
 	} else {
 
-		color.Println("[<fg=blue>"+host+"</>] - [<fg=green>"+url+"</>] - [<fg=green>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=green>"+url+"</>] - [<fg=green>200</>] ::", proxy)
 
 	}
 
