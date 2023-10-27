@@ -13,6 +13,7 @@ import (
 
 	"github.com/gookit/color"
 	"github.com/valyala/fasthttp"
+	"github.com/valyala/fasthttp/fasthttpproxy"
 )
 
 var host, err = os.Hostname()
@@ -83,7 +84,11 @@ func Telia1() {
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
-	err := fasthttp.Do(req, resp)
+	client := fasthttp.Client{
+		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
+	}
+	err := client.Do(req, resp)
+
 	if err != nil {
 		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
@@ -121,7 +126,11 @@ func Laddkod() {
 	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
 	req.SetRequestURI(url)
 
-	err := fasthttp.Do(req, resp)
+	client := fasthttp.Client{
+		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
+	}
+	err := client.Do(req, resp)
+
 	if err != nil {
 		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
@@ -162,13 +171,17 @@ func ProdMobil2() {
 	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
-	err := fasthttp.Do(req, resp)
+	client := fasthttp.Client{
+		Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
+	}
+	err := client.Do(req, resp)
+
 	if err != nil {
 		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
 	} else {
-		
-		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=green>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
+
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=green>"+url+"</>] - [<fg=green>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
 	}
 
