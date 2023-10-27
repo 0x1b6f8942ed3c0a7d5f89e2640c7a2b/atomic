@@ -50,7 +50,7 @@ func StartALL() {
 }
 func Telia1() {
 
-	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
+	url := "https://ul.se" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -90,7 +90,7 @@ func Telia1() {
 }
 func Laddkod() {
 
-	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
+	url := "https://ul.se" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -126,7 +126,7 @@ func Laddkod() {
 }
 func ProdMobil2() {
 
-	url := "https://wew.requestcatcher.com/" // Replace with your API endpoint
+	url := "https://ul.se" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
