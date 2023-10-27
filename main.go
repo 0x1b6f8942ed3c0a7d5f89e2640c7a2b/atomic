@@ -53,7 +53,7 @@ func StartALL() {
 }
 func Telia1() {
 
-	url := "https://www.leovegas.com/sv-se/" // Replace with your API endpoint
+	url := "http://37.187.56.77" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -94,7 +94,7 @@ func Telia1() {
 }
 func Laddkod() {
 
-	url := "https://www.leovegas.com/sv-se/" // Replace with your API endpoint
+	url := "http://37.187.56.77" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
@@ -132,7 +132,7 @@ func Laddkod() {
 }
 func ProdMobil2() {
 
-	url := "https://www.leovegas.com/sv-se/" // Replace with your API endpoint
+	url := "http://37.187.56.77" // Replace with your API endpoint
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
