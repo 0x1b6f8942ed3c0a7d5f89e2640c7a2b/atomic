@@ -57,28 +57,12 @@ func Telia1() {
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
-	data := `{"identifier": "46726415603"}` // Fixed the JSON formatting issue
-
 	req := fasthttp.AcquireRequest()
 
 	defer fasthttp.ReleaseRequest(req)
-	req.Header.SetMethod("POST")
-	req.Header.Set("Host", "sa.telia.se")
-	req.Header.Set("Accept", "application/json")
-	req.Header.Set("is-DarkMode", "true")
-	req.Header.Set("X-IOS-Build", "4513")
-	req.Header.Set("ga-av", "2023.13")
-	req.Header.Set("ga-aid", "com.teliasonera.selfservice.telia")
-	req.Header.Set("Accept-Language", "sv")
-	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Content-Length", "34")
-	req.Header.Set("User-Agent", "com.teliasonera.selfservice.telia/2023.13 (iOS 16.2; Apple iPhone10,4)")
-	req.Header.Set("Connection", "keep-alive")
-	req.Header.Set("ga-an", "Mitttelia")
-	req.Header.Set("X-InstallationID", "5D6D5A0B-456D-4ED6-9A64-355A2064085B")
-	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
+	req.Header.SetMethod("GET")
+
 	req.SetRequestURI(url)
-	req.SetBodyString(data)
 
 	err := fasthttp.Do(req, nil)
 
@@ -101,21 +85,7 @@ func Laddkod() {
 	req := fasthttp.AcquireRequest()
 
 	defer fasthttp.ReleaseRequest(req)
-	req.Header.SetMethod("POST")
-	req.Header.Set("Host", "sa.telia.se")
-	req.Header.Set("Accept", "application/json")
-	req.Header.Set("is-DarkMode", "true")
-	req.Header.Set("X-IOS-Build", "4513")
-	req.Header.Set("ga-av", "2023.13")
-	req.Header.Set("ga-aid", "com.teliasonera.selfservice.telia")
-	req.Header.Set("Accept-Language", "sv")
-	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Content-Length", "34")
-	req.Header.Set("User-Agent", "com.teliasonera.selfservice.telia/2023.13 (iOS 16.2; Apple iPhone10,4)")
-	req.Header.Set("Connection", "keep-alive")
-	req.Header.Set("ga-an", "Mitttelia")
-	req.Header.Set("X-InstallationID", "5D6D5A0B-456D-4ED6-9A64-355A2064085B")
-	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
+	req.Header.SetMethod("GET")
 	req.SetRequestURI(url)
 
 	err := fasthttp.Do(req, nil)
@@ -136,29 +106,12 @@ func ProdMobil2() {
 
 	proxy := proxyList[rand.Intn(len(proxyList))]
 
-	data := `{"hash":"Mqu2VBd7S9Tf3lQ74PogIytnuiw="," fasthttpId":"4a458cd7-b311-4676-b479-00f3ec583a93","messageService":"APP","messageType":"REGISTER_DEVICE_REQUEST","message":"{\"msisdn\":\"46726415603\",\"deviceId\":\"9f065f6d979246ed81c63cfe4fbaef39\",\"companyCode\":\"MP\",\"requestId\":null,\"deviceKey\":null,\"userId\":null,\"platform\":\"iOS\",\"osVersion\":\"16.2.0\",\"appVersionNumber\":\"1.4.33\",\"appBuildNumber\":\"2023.10.09.1\"}","requestId":null,"synchronous":true}` // Fixed the JSON formatting issue
-
 	req := fasthttp.AcquireRequest()
 
 	defer fasthttp.ReleaseRequest(req)
 
-	req.Header.SetMethod("POST")
-	req.Header.Set("Host", "sa.telia.se")
-	req.Header.Set("Accept", "application/json")
-	req.Header.Set("is-DarkMode", "true")
-	req.Header.Set("X-IOS-Build", "4513")
-	req.Header.Set("ga-av", "2023.13")
-	req.Header.Set("ga-aid", "com.teliasonera.selfservice.telia")
-	req.Header.Set("Accept-Language", "sv")
-	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Content-Length", "34")
-	req.Header.Set("User-Agent", "com.teliasonera.selfservice.telia/2023.13 (iOS 16.2; Apple iPhone10,4)")
-	req.Header.Set("Connection", "keep-alive")
-	req.Header.Set("ga-an", "Mitttelia")
-	req.Header.Set("X-InstallationID", "5D6D5A0B-456D-4ED6-9A64-355A2064085B")
-	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
+	req.Header.SetMethod("GET")
 	req.SetRequestURI(url)
-	req.SetBodyString(data)
 
 	err := fasthttp.Do(req, nil)
 
