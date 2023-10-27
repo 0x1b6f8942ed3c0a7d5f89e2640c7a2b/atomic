@@ -11,7 +11,6 @@ import (
 	"time"
 
 	"github.com/valyala/fasthttp"
-	"github.com/valyala/fasthttp/fasthttpproxy"
 )
 
 func main() {
@@ -80,8 +79,7 @@ func Telia1() {
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
-
-	err :=  fasthttp.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 	if err != nil {
 
 	} else {
@@ -118,8 +116,7 @@ func Laddkod() {
 	req.Header.Set("Cookie", "jsessionid=85AAC80FD95E4A47ABDDCAB92E333CB6; STSSESSION=F07A452C7D92810DB537D873A2B105D6")
 	req.SetRequestURI(url)
 
- 
-	err :=  fasthttp.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 	if err != nil {
 
 	} else {
@@ -159,8 +156,7 @@ func ProdMobil2() {
 	req.SetRequestURI(url)
 	req.SetBodyString(data)
 
- 
-	err :=  fasthttp.Do(req, resp)
+	err := fasthttp.Do(req, resp)
 	if err != nil {
 
 	} else {
