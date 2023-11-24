@@ -3,6 +3,7 @@ module main
 go 1.21
 
 require (
+	github.com/corpix/uarand v0.2.0
 	github.com/gookit/color v1.5.4
 	github.com/valyala/fasthttp v1.50.0
 )
