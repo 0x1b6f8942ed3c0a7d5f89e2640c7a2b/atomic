@@ -1,2410 +1,280 @@
-SSN: 20050321-0015
-First Name: Adam Gustaf
-Last Name: Hartzell
-Gender: male
-Age: 18
-Address: Dalgårdsvägen 40, Enskededalen
-Coordinates: Lat: 59.285595494140104, Lng: 18.103958567733685
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0064
-First Name: Klara Sofia
-Last Name: Lundström
-Gender: female
-Age: 18
-Address: Laxgränd 9 B, Umeå
-Coordinates: Lat: 63.823282216549885, Lng: 20.231587826604663
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0023
-First Name: Tilda Veronica
-Last Name: Landerberg
-Gender: female
-Age: 18
-Address: Torslanda Hästeviks väg 23, Torslanda
-Coordinates: Lat: 57.71491858921182, Lng: 11.727337219092506
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0056
-First Name: Jan Edvin
-Last Name: Alm
-Gender: male
-Age: 18
-Address: Tasbäck Molarsgattu 9, Siljansnäs
-Coordinates: Lat: 60.77752937845797, Lng: 14.900261954093116
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0106
-First Name: Alice Ida Christina
-Last Name: Landsmer
-Gender: female
-Age: 18
-Address: Gyllenstiernas väg 17, Täby
-Coordinates: Lat: 59.42824007764797, Lng: 18.073836240359675
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0098
-First Name: Jesper Erik Axel
-Last Name: Melin
-Gender: male
-Age: 18
-Address: Svanågatan 7, Västerås
-Coordinates: Lat: 59.63564191895217, Lng: 16.554316632485737
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0031
-First Name: Johan Isak
-Last Name: Alm
-Gender: male
-Age: 18
-Address: Tegvägen 1 lgh 1204, Järfälla
-Coordinates: Lat: 59.40984799303692, Lng: 17.801240278916527
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0072
-First Name: Albin Nils Olof
-Last Name: Bergström
-Gender: male
-Age: 18
-Address: Eriksbergsgatan 42 lgh 1103, Stockholm
-Coordinates: Lat: 59.34191349190197, Lng: 18.06607501008784
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0080
-First Name: Alma Karin Linnea
-Last Name: Gripö
-Gender: female
-Age: 18
-Address: Smedserud 59, Torsby
-Coordinates: Lat: 60.17646088626185, Lng: 12.885856993186783
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0155
-First Name: William Anders
-Last Name: Eriksson
-Gender: male
-Age: 18
-Address: Lövaskog Lövkulla 2, Äspered
-Coordinates: Lat: 57.74559153156007, Lng: 13.180767320075654
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0122
-First Name: Celestine Morgan Atupele
-Last Name: Kallijärvi
-Gender: female
-Age: 18
-Address: Anna Maria Roos väg 74, Tullinge
-Coordinates: Lat: 59.215552391450665, Lng: 17.886885166921825
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0114
-First Name: Måns Martin Weste
-Last Name: Vestesson
-Gender: male
-Age: 18
-Address: Kuddby Ingelstad 1, Vikbolandet
-Coordinates: Lat: 58.51534430588489, Lng: 16.465469610485474
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0130
-First Name: Filip Owe Fredrik
-Last Name: Sjöqvist
-Gender: male
-Age: 18
-Address: Eskilstunavägen 3 B, Eskilstuna
-Coordinates: Lat: 59.38340086973992, Lng: 16.429829928343562
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0163
-First Name: Talitha Tama
-Last Name: De Freitas Jackson
-Gender: female
-Age: 18
-Address: Ekebyhovsvägen 6 C lgh 1103, Ekerö
-Coordinates: Lat: 59.28824329168381, Lng: 17.810671222032394
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0213
-First Name: Edwin Gustav David
-Last Name: Jonasson
-Gender: male
-Age: 18
-Address: Östra Köpmansgatan 32 lgh 1303, Karlskrona
-Coordinates: Lat: 56.1640781982962, Lng: 15.588098212214456
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0171
-First Name: Axel
-Last Name: Dahl
-Gender: male
-Age: 18
-Address: Kungsborgsbacken 9, Nacka
-Coordinates: Lat: 59.32847813261661, Lng: 18.216060447047816
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0197
-First Name: Hussain
-Last Name: Mahmood
-Gender: male
-Age: 18
-Address: Södergatan 29 A lgh 1201, Märsta
-Coordinates: Lat: 59.62724466602352, Lng: 17.85758497647537
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0189
-First Name: Danai-Sotiria
-Last Name: Syriopoulou
-Gender: female
-Age: 18
-Address: Oskarsvägen 3 B lgh 1201, Örebro
-Coordinates: Lat: 59.269189995445984, Lng: 15.229085291070154
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0239
-First Name: Imad
-Last Name: Oubeid
-Gender: male
-Age: 18
-Address: Önevägen 132 lgh 1102, Frösön
-Coordinates: Lat: 63.16923130393717, Lng: 14.574333869711335
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0247
-First Name: Maryam
-Last Name: Mohammadi
-Gender: female
-Age: 18
-Address: Vilhelminavägen 12 C lgh 1303, Lycksele
-Coordinates: Lat: 64.59071564068475, Lng: 18.669736791727097
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0254
-First Name: Davis
-Last Name: Osarodion Osayamwen
-Gender: male
-Age: 18
-Address: Almqvistgatan 25 lgh 1201, Uppsala
-Coordinates: Lat: 59.875909308324225, Lng: 17.65873881164584
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0049
-First Name: Lisa Elvira Amanda
-Last Name: Sandahl Karlsson
-Gender: female
-Age: 18
-Address: Norrhult Sörbyn 6, Hultsfred
-Coordinates: Lat: 57.52976944456964, Lng: 15.881146811506822
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0221
-First Name: Aryan Adel Jako
-Last Name: Jako
-Gender: female
-Age: 18
-Address: Västra Fridhemsgatan 7 lgh 1602, Helsingborg
-Coordinates: Lat: 56.026487051425775, Lng: 12.71044711870957
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0270
-First Name: Mahdi
-Last Name: Rezaee
-Gender: male
-Age: 18
-Address: Höglundavägen 35 lgh 1102, Nyköping
-Coordinates: Lat: 58.758974321706944, Lng: 17.02897928769101
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0395
-First Name: Otto Jonas Gustav
-Last Name: Ljungholm
-Gender: male
-Age: 18
-Address: Idrottsgatan 16 lgh 1003, Uppsala
-Coordinates: Lat: 59.8738515014554, Lng: 17.623874360619524
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0379
-First Name: Olle Jonas Evert
-Last Name: Skymgård
-Gender: male
-Age: 18
-Address: Bandygatan 5, Västerås
-Coordinates: Lat: 59.64351724307975, Lng: 16.505417026844274
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0437
-First Name: Jassine Mohamed Amine
-Last Name: Zina
-Gender: male
-Age: 18
-Address: Skimmelgatan 5, Ängelholm
-Coordinates: Lat: 56.23116313302778, Lng: 12.873958538591655
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0338
-First Name: Alezander Sidney
-Last Name: Cantos Jones
-Gender: male
-Age: 18
-Address: Valövägen 2, Saltsjö-Boo
-Coordinates: Lat: 59.332922552626776, Lng: 18.24884691961645
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0320
-First Name: Matilda Lena Pauline
-Last Name: Idermark
-Gender: female
-Age: 18
-Address: Färgerivägen 8, Alsterbro
-Coordinates: Lat: 56.93487567892312, Lng: 15.916552449976868
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0593
-First Name: Ebrahim
-Last Name: Kharbotli
-Gender: male
-Age: 18
-Address: Södra Aspövägen 21 B, Skövde
-Coordinates: Lat: 58.41369682166113, Lng: 13.864064569612797
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0601
-First Name: Elin
-Last Name: Khavari
-Gender: female
-Age: 18
-Address: Gränsgatan 15 lgh 1608, Värnamo
-Coordinates: Lat: 57.17721159397874, Lng: 14.031818600275125
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0635
-First Name: Leon Oscar Melker
-Last Name: Andrén
-Gender: male
-Age: 18
-Address: Rörhed 2, Torslanda
-Coordinates: Lat: 57.73877657389015, Lng: 11.807642153847004
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0510
-First Name: Axel Ossian
-Last Name: Lönnborg
-Gender: male
-Age: 18
-Address: Granetorpsvägen 5 B, Huaröd
-Coordinates: Lat: 55.840446279155636, Lng: 13.970386649086398
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0494
-First Name: Viktor Jun Tao
-Last Name: Bengtsson
-Gender: male
-Age: 18
-Address: Flöjtgatan 166, Karlstad
-Coordinates: Lat: 59.399549727778, Lng: 13.574261103132383
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0684
-First Name: 
-Last Name: 
-Gender: 
-Age: 0
-Address: , 
-Coordinates: Lat: , Lng: 
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0726
-First Name: Felicia
-Last Name: Bergman
-Gender: female
-Age: 18
-Address: Vretgränd 12 A lgh 1120, Uppsala
-Coordinates: Lat: 59.856560750269736, Lng: 17.643092715081057
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0775
-First Name: Theodor Per Erik
-Last Name: Eriksson
-Gender: male
-Age: 18
-Address: Ede Strandväg 3, Järvsö
-Coordinates: Lat: 61.76124108531065, Lng: 16.15552602770334
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0791
-First Name: Anton William Sven
-Last Name: Harding
-Gender: male
-Age: 18
-Address: Tallhagsvägen 58, Kalmar
-Coordinates: Lat: 56.6910976237997, Lng: 16.35615572813705
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0858
-First Name: Filip Andreas
-Last Name: Toftling
-Gender: male
-Age: 18
-Address: Hättängsvägen 1, Ervalla
-Coordinates: Lat: 59.447596036465, Lng: 15.298572377375537
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0767
-First Name: Ebba Linnéa
-Last Name: Apelgren
-Gender: female
-Age: 18
-Address: Stomvägen 5, Borgholm
-Coordinates: Lat: 56.77514493055751, Lng: 16.573760729706795
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0759
-First Name: Karl Ludvig Andreas
-Last Name: Fridén Segerfalk
-Gender: male
-Age: 18
-Address: Stridsbergavägen 14, Spånga
-Coordinates: Lat: 59.3817514472683, Lng: 17.91461215896984
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0833
-First Name: Alan
-Last Name: Hasan
-Gender: male
-Age: 18
-Address: Fjällveronikan 5 lgh 1503, Angered
-Coordinates: Lat: 57.801874031983296, Lng: 12.0678907125566
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0908
-First Name: Emma Linn
-Last Name: Gustafsson
-Gender: female
-Age: 18
-Address: Landa 6, Högsäter
-Coordinates: Lat: 58.67286872014763, Lng: 12.057953994058048
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0890
-First Name: Alan Farsat
-Last Name: Zaki
-Gender: male
-Age: 18
-Address: Hällmarksvägen 13, Gunnilse
-Coordinates: Lat: 57.78441986973839, Lng: 12.080796767423474
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0924
-First Name: Hamdi Hassan
-Last Name: Abdullahi
-Gender: female
-Age: 18
-Address: Bergengatan 35 lgh 1104, Kista
-Coordinates: Lat: 59.40577117978499, Lng: 17.927773931960214
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0817
-First Name: Darin Mohsen Marwan
-Last Name: Hussein
-Gender: male
-Age: 18
-Address: Svalgången 5 lgh 1103, Sollentuna
-Coordinates: Lat: 59.40948648481561, Lng: 17.960451767343617
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0965
-First Name: Ryaan Elsa May
-Last Name: Hedlund
-Gender: female
-Age: 18
-Address: Dalhemsvägen 79 A lgh 1002, Helsingborg
-Coordinates: Lat: 56.06855557096914, Lng: 12.740098825241095
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0981
-First Name: Emma
-Last Name: Husinova
-Gender: female
-Age: 18
-Address: Tingvallavägen 9 F lgh 1301, Märsta
-Coordinates: Lat: 59.61994679198594, Lng: 17.844673841718848
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1021
-First Name: Filippa Stella
-Last Name: Brontén
-Gender: female
-Age: 18
-Address: Cirkelgatan 4, Umeå
-Coordinates: Lat: 63.811060964572015, Lng: 20.266282957514527
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1096
-First Name: Alex Hans
-Last Name: Frehner
-Gender: male
-Age: 18
-Address: Högåsvägen 6, Värmdö
-Coordinates: Lat: 59.309266063348005, Lng: 18.638938390262656
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1104
-First Name: Filippa Sophie Rebecca
-Last Name: Reuterberg
-Gender: female
-Age: 18
-Address: Solhöjdsgränd 4, Västra Frölunda
-Coordinates: Lat: 57.67121816927347, Lng: 11.85268886747581
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1112
-First Name: Sardar
-Last Name: Khader
-Gender: male
-Age: 18
-Address: Planteringsvägen 204 lgh 1301, Helsingborg
-Coordinates: Lat: 56.00885916754843, Lng: 12.729322983747782
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1070
-First Name: Kjell Edgar
-Last Name: Englund
-Gender: male
-Age: 18
-Address: Bjursätragatan 17 lgh 1302, Bandhagen
-Coordinates: Lat: 59.258631527782576, Lng: 18.034599978755537
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1054
-First Name: Carl Emil
-Last Name: Persson
-Gender: male
-Age: 18
-Address: Tisdagsvägen 3, Horred
-Coordinates: Lat: 57.35732681042293, Lng: 12.465882424925244
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1146
-First Name: Ingrid Malin
-Last Name: Bergendorff Gentele
-Gender: female
-Age: 18
-Address: Åkerbyvägen 384 lgh 1302, Täby
-Coordinates: Lat: 59.45157171101388, Lng: 18.07642107157624
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1088
-First Name: Elma
-Last Name: Crnovrsanin
-Gender: female
-Age: 18
-Address: Lycko Pers väg 5 C lgh 1201, Trelleborg
-Coordinates: Lat: 55.37686420680496, Lng: 13.13848488997719
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-0999
-First Name: Hugo Martin Emanuel
-Last Name: Virén
-Gender: male
-Age: 18
-Address: Linnégatan 1, Örebro
-Coordinates: Lat: 59.29023229861754, Lng: 15.223700483952886
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1120
-First Name: Emelie Engla Alexandra
-Last Name: Lindqvist
-Gender: female
-Age: 18
-Address: Entitevägen 15, Gustavsberg
-Coordinates: Lat: 59.319633990222414, Lng: 18.409293692201434
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1179
-First Name: Leo Magnus
-Last Name: Gasser
-Gender: male
-Age: 18
-Address: Virauddsvägen 10, Täby
-Coordinates: Lat: 59.4532952332725, Lng: 18.107100593332056
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1013
-First Name: Lars Gabriel
-Last Name: Palo
-Gender: male
-Age: 18
-Address: Milhällevägen 31, Luleå
-Coordinates: Lat: 65.5539768447242, Lng: 21.84507778570071
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1161
-First Name: Ella Alicia Anette
-Last Name: Östberg
-Gender: female
-Age: 18
-Address: Sandgränd 22, Vällingby
-Coordinates: Lat: 59.37350153045047, Lng: 17.879128783639725
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1237
-First Name: Alhasan Abbas Jabbar
-Last Name: Al-Ezzi
-Gender: male
-Age: 18
-Address: Igeltjärnsvägen 43, Gävle
-Coordinates: Lat: 60.68455393151881, Lng: 17.09388732894759
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1344
-First Name: Saga Emma
-Last Name: Lundgren
-Gender: female
-Age: 18
-Address: Åkersvägen 9, Uddevalla
-Coordinates: Lat: 58.354881524695365, Lng: 11.836381471200077
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1351
-First Name: Sahil
-Last Name: Sahar
-Gender: male
-Age: 18
-Address: Munkhättegatan 184 lgh 1501, Malmö
-Coordinates: Lat: 55.55867468314921, Lng: 13.017705289599832
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1369
-First Name: Indira
-Last Name: Shovhalova
-Gender: female
-Age: 18
-Address: Kvarnängsgatan 2, Eksjö
-Coordinates: Lat: 57.660050862757245, Lng: 14.971255309876513
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1385
-First Name: Ida Sophia
-Last Name: Lundström Kircher
-Gender: female
-Age: 18
-Address: Murargatan 4 G lgh 1102, Uppsala
-Coordinates: Lat: 59.8632619907127, Lng: 17.673028018546418
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1401
-First Name: Isabelle Pia
-Last Name: Högberg
-Gender: female
-Age: 18
-Address: Midnattsvägen 2, Växjö
-Coordinates: Lat: 56.906600142000755, Lng: 14.789437765781745
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1419
-First Name: Daniyil
-Last Name: Nguen
-Gender: male
-Age: 18
-Address: Olastorpsvägen 9 Y, Kristianstad
-Coordinates: Lat: 56.05310972050532, Lng: 14.145970507177534
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1302
-First Name: Ellinor Ruth
-Last Name: Parmryd
-Gender: female
-Age: 18
-Address: Doktor Widerströms gata 88 lgh 1001, Hägersten
-Coordinates: Lat: 59.28685857141324, Lng: 17.95886967528284
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1435
-First Name: Ian
-Last Name: Caneo Mölder
-Gender: male
-Age: 18
-Address: Sjunde Tvärgatan 50 A lgh 1003, Gävle
-Coordinates: Lat: 60.67026851847122, Lng: 17.16865164459353
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1393
-First Name: Carl Adam
-Last Name: Gertoft
-Gender: male
-Age: 18
-Address: Kneippgatan 19 lgh 1001, Norrköping
-Coordinates: Lat: 58.58654107037045, Lng: 16.15845473778009
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1468
-First Name: Sofija
-Last Name: Jurisic
-Gender: female
-Age: 18
-Address: Vallvägen 13 lgh 1601, Södertälje
-Coordinates: Lat: 59.20568258412781, Lng: 17.593063432929792
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1476
-First Name: Ahmad
-Last Name: Suleiman Khaled
-Gender: male
-Age: 18
-Address: Dalgårdsgatan 6 B lgh 1101, Boxholm
-Coordinates: Lat: 58.203520011362954, Lng: 15.056312429866553
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1229
-First Name: Emeli Alma Minda
-Last Name: Boije Lundgren
-Gender: female
-Age: 18
-Address: Götavägen 54, Täby
-Coordinates: Lat: 59.45987227730321, Lng: 18.080305409229126
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1294
-First Name: Tirapat
-Last Name: Samingchanu
-Gender: male
-Age: 18
-Address: Skolgatan 14 lgh 1403, Halmstad
-Coordinates: Lat: 56.67881969536758, Lng: 12.857019552483266
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1526
-First Name: Sara Cornelia
-Last Name: Stenlund
-Gender: female
-Age: 18
-Address: Klingsporvägen 13, Arvidsjaur
-Coordinates: Lat: 65.59766173772003, Lng: 19.165032551158916
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1542
-First Name: Fatima
-Last Name: Amiri
-Gender: female
-Age: 18
-Address: Ida Ekenstiernas väg 17, Genarp
-Coordinates: Lat: 55.604504813119476, Lng: 13.395289206940395
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1500
-First Name: Johanna Greta
-Last Name: Petersson
-Gender: female
-Age: 18
-Address: Vårbrisvägen 18, Linköping
-Coordinates: Lat: 58.43240270439971, Lng: 15.70139726862433
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1484
-First Name: Leyla
-Last Name: Wafaei
-Gender: female
-Age: 18
-Address: Furirgatan 4 lgh 1203, Linköping
-Coordinates: Lat: 58.40348064399169, Lng: 15.610050567002428
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1609
-First Name: Rose Ayad Nori
-Last Name: Aziz
-Gender: female
-Age: 18
-Address: Karlhovsvägen 26, Södertälje
-Coordinates: Lat: 59.205789873204274, Lng: 17.606508722255914
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1674
-First Name: Alexander Nils
-Last Name: Helldén
-Gender: male
-Age: 18
-Address: Pallgatan 71, Helsingborg
-Coordinates: Lat: 56.05809388824032, Lng: 12.749890435412999
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1658
-First Name: Bruno Carl Johan
-Last Name: Sehlin Stradalovs
-Gender: male
-Age: 18
-Address: Helgagatan 36 M lgh 1104, Stockholm
-Coordinates: Lat: 59.30907502869061, Lng: 18.069374049985417
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1732
-First Name: 
-Last Name: 
-Gender: 
-Age: 0
-Address: , 
-Coordinates: Lat: , Lng: 
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1567
-First Name: Vendela Tindra Parise
-Last Name: Thell
-Gender: female
-Age: 18
-Address: Köpmangatan 9 lgh 1203, Örebro
-Coordinates: Lat: 59.271339984898496, Lng: 15.212801515517102
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1575
-First Name: Carl Victor
-Last Name: Johansson
-Gender: male
-Age: 18
-Address: Svampvägen 97, Märsta
-Coordinates: Lat: 59.639052925113475, Lng: 17.847993927966524
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1591
-First Name: Axel William
-Last Name: Olofsson
-Gender: male
-Age: 18
-Address: Parkgatan 2 lgh 1503, Gällivare
-Coordinates: Lat: 67.13744466551093, Lng: 20.65889622084343
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1666
-First Name: Maryam Hayder Shaheed
-Last Name: Alhasan
-Gender: female
-Age: 18
-Address: Topasgatan 48 lgh 1203, Västra Frölunda
-Coordinates: Lat: 57.64597547938399, Lng: 11.910110741497894
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1740
-First Name: Sara Moa
-Last Name: Magnusson
-Gender: female
-Age: 18
-Address: Bruksgatan 9 A lgh 1001, Oskarshamn
-Coordinates: Lat: 57.266647441357286, Lng: 16.444366440416708
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1849
-First Name: Elin Sofie Amalia
-Last Name: Alverå
-Gender: female
-Age: 18
-Address: Tyrsjöliden 11 A, Olofstorp
-Coordinates: Lat: 57.7836073990407, Lng: 12.145241083890326
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1765
-First Name: Anna Emilia Isagel
-Last Name: Olovsson
-Gender: female
-Age: 18
-Address: Grossistvägen 1, Boden
-Coordinates: Lat: 65.79843653813741, Lng: 21.74950152917418
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1781
-First Name: Alice Mini Lo
-Last Name: Vallström
-Gender: female
-Age: 18
-Address: Trappstigen 18, Falun
-Coordinates: Lat: 60.61602314425954, Lng: 15.634085698057156
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1831
-First Name: Erion
-Last Name: Prenici
-Gender: male
-Age: 18
-Address: Stenlidenvägen 12 B, Trollhättan
-Coordinates: Lat: 58.25766217426972, Lng: 12.287093362431275
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1989
-First Name: Emely Rafaela
-Last Name: Cabral Gomes Lima
-Gender: female
-Age: 18
-Address: Höstvädersgatan 23 lgh 1101, Göteborg
-Coordinates: Lat: 57.71402707781725, Lng: 11.892683223234437
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1955
-First Name: Nosh
-Last Name: Raza
-Gender: male
-Age: 18
-Address: Rimfrostgatan 59 lgh 1101, Göteborg
-Coordinates: Lat: 57.73085250343599, Lng: 11.889989618728677
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1963
-First Name: Setayesh
-Last Name: Karimi
-Gender: female
-Age: 18
-Address: Norrby Tvärgata 18 lgh 1702, Borås
-Coordinates: Lat: 57.724381771481795, Lng: 12.932643278843285
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2003
-First Name: Ida Maria
-Last Name: Berg
-Gender: female
-Age: 18
-Address: Aspvägen 9, Ånge
-Coordinates: Lat: 62.52956285860274, Lng: 15.635878073763985
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2037
-First Name: Lars Olof Gabriel
-Last Name: Nordlund
-Gender: male
-Age: 18
-Address: Silleskärsgatan 59, Västra Frölunda
-Coordinates: Lat: 57.64291829940226, Lng: 11.882971643638452
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2011
-First Name: Victor Nils Bastiaan
-Last Name: Damen Blad
-Gender: male
-Age: 18
-Address: Hemmansvägen 25, Umeå
-Coordinates: Lat: 63.83562677434497, Lng: 20.17495593194922
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2029
-First Name: Areej
-Last Name: Alhafez
-Gender: female
-Age: 18
-Address: Malörtsvägen 7 B lgh 1503, Kalmar
-Coordinates: Lat: 56.71374529553569, Lng: 16.32691300224129
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1997
-First Name: Per Christoffer Monir
-Last Name: Hafström
-Gender: male
-Age: 18
-Address: Opalgatan 12, Jönköping
-Coordinates: Lat: 57.79596876603703, Lng: 14.120528233291687
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2185
-First Name: Sara Anna-Lisa Gullvi
-Last Name: Fredriksson
-Gender: female
-Age: 18
-Address: Kristinelund 126, Vänersborg
-Coordinates: Lat: 58.38351591605313, Lng: 12.282941962392842
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2086
-First Name: Hannah Jessica Elisabeth
-Last Name: Svensson Tronäss
-Gender: female
-Age: 18
-Address: Bygatan 16, Vinslöv
-Coordinates: Lat: 56.108348170170274, Lng: 13.916213682282377
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2177
-First Name: Christofer Nathaniel
-Last Name: Cantos Jones
-Gender: male
-Age: 18
-Address: Valövägen 2, Saltsjö-Boo
-Coordinates: Lat: 59.332922552626776, Lng: 18.24884691961645
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2201
-First Name: Lovisa Johanna Marie
-Last Name: Gullqvist
-Gender: female
-Age: 18
-Address: Östra Esplanaden 15 B lgh 1101, Arvika
-Coordinates: Lat: 59.655950383478746, Lng: 12.597571700182982
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-1930
-First Name: Rory-Stefan
-Last Name: Baciu-David
-Gender: male
-Age: 18
-Address: Steglitsvägen 5, Sollentuna
-Coordinates: Lat: 59.42989535851675, Lng: 18.004181995278973
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2227
-First Name: Maja Sigrid Ulrika
-Last Name: Gustavsson
-Gender: female
-Age: 18
-Address: Utögatan 87, Rydebäck
-Coordinates: Lat: 55.962014384017365, Lng: 12.76267129882862
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2219
-First Name: Mats Daniel Ingemar Junior
-Last Name: Bergqvist
-Gender: male
-Age: 18
-Address: Kvarnbygatan 11 lgh 1901, Mölndal
-Coordinates: Lat: 57.65819290826589, Lng: 12.030325436940421
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2243
-First Name: Maja
-Last Name: Rosic
-Gender: female
-Age: 18
-Address: Östra Skärfva Byväg 41, Karlskrona
-Coordinates: Lat: 56.21288706904676, Lng: 15.564296213043242
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2292
-First Name: Linus Kristian
-Last Name: Fyrén Inga
-Gender: male
-Age: 18
-Address: Domherrevägen 3 A lgh 1103, Gällivare
-Coordinates: Lat: 67.12213562951338, Lng: 20.65172235799927
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2334
-First Name: Christopher Oliwer
-Last Name: Sandgren
-Gender: male
-Age: 18
-Address: Stafettvägen 11, Ljungby
-Coordinates: Lat: 56.834410981339374, Lng: 13.9665669428279
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2359
-First Name: Anton Frans Oskar
-Last Name: Eckerman
-Gender: male
-Age: 18
-Address: Norrtäljevägen 14, Väddö
-Coordinates: Lat: 59.96878899241237, Lng: 18.806200264173558
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2342
-First Name: Sara Meryem Maria
-Last Name: Aygen
-Gender: female
-Age: 18
-Address: Lävägen 124, Luleå
-Coordinates: Lat: 65.62038104328431, Lng: 22.18094463029771
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2375
-First Name: Anton Eric Johannes
-Last Name: Fredriksson
-Gender: male
-Age: 18
-Address: Norra Prästvägen 15, Gävle
-Coordinates: Lat: 60.7233152075141, Lng: 17.16708879292959
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2417
-First Name: Otto Gustav Tomas
-Last Name: Serrander
-Gender: male
-Age: 18
-Address: Stapelvägen 8, Ursviken
-Coordinates: Lat: 64.71893512888524, Lng: 21.132510744874168
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2433
-First Name: Ali Reza
-Last Name: Rostami
-Gender: male
-Age: 18
-Address: Umevägen 40 lgh 1502, Vännäs
-Coordinates: Lat: 63.907075865599786, Lng: 19.767370351700894
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2508
-First Name: Raghad
-Last Name: Hammudeh
-Gender: female
-Age: 18
-Address: Bredfjällsgatan 32 lgh 1101, Angered
-Coordinates: Lat: 57.780173326609635, Lng: 12.032599347776808
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2474
-First Name: Masoud
-Last Name: Arab
-Gender: male
-Age: 18
-Address: Odengatan 7 A lgh 1001, Åmål
-Coordinates: Lat: 59.05655402566609, Lng: 12.69689411470121
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2540
-First Name: Clara Anna Sol
-Last Name: Lennegren
-Gender: female
-Age: 18
-Address: Pilfinksvägen 38, Täby
-Coordinates: Lat: 59.43853090374567, Lng: 18.098126254418332
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2482
-First Name: Setareh
-Last Name: Ebrahimi
-Gender: female
-Age: 18
-Address: Röda Gatan 2 B lgh 1202, Kalmar
-Coordinates: Lat: 56.69923771152561, Lng: 16.353776174472138
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2441
-First Name: Fahima
-Last Name: Amini
-Gender: female
-Age: 18
-Address: Granängsringen 31 lgh 1001, Tyresö
-Coordinates: Lat: 59.23521355765966, Lng: 18.229749075930794
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2623
-First Name: Lina Ulrika Andreasdotter
-Last Name: Holsti
-Gender: female
-Age: 18
-Address: Backvindeln 93, Hägersten
-Coordinates: Lat: 59.29727209339623, Lng: 17.945493042580587
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2557
-First Name: David Andreas
-Last Name: Ericsson
-Gender: male
-Age: 18
-Address: Gökärtsvägen 14, Täby
-Coordinates: Lat: 59.46602979258422, Lng: 18.033551674830143
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2458
-First Name: Jamshid Ahmad
-Last Name: Niazi
-Gender: male
-Age: 18
-Address: Wrangels väg 4 A lgh 1002, Ekerö
-Coordinates: Lat: 59.28902490653246, Lng: 17.803637050811563
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2631
-First Name: Saeed
-Last Name: Ebrahimi
-Gender: male
-Age: 18
-Address: Röda Gatan 2 B lgh 1202, Kalmar
-Coordinates: Lat: 56.69923771152561, Lng: 16.353776174472138
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2649
-First Name: Frida Catharina
-Last Name: Johnsson
-Gender: female
-Age: 18
-Address: Drättinge Slanten 1, Gammalkil
-Coordinates: Lat: 58.325502228861495, Lng: 15.405575463548253
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2599
-First Name: Arvid Karl Birger
-Last Name: Löfgren
-Gender: male
-Age: 18
-Address: Edlingevägen 10 B, Eskilstuna
-Coordinates: Lat: 59.393442291114454, Lng: 16.486369057331853
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2722
-First Name: Emma Klara
-Last Name: Gidlund
-Gender: female
-Age: 18
-Address: Helsingforsgatan 31, Uppsala
-Coordinates: Lat: 59.853564009592276, Lng: 17.60951470896373
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2839
-First Name: Jonas Henry
-Last Name: Ahlbom
-Gender: male
-Age: 18
-Address: Torögatan 108, Enskede
-Coordinates: Lat: 59.27296667715453, Lng: 18.074600277421922
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2565
-First Name: Anna Gunilla Martina
-Last Name: Kolstad
-Gender: female
-Age: 18
-Address: Bygattu 10, Sifferbo
-Coordinates: Lat: 60.55566061506192, Lng: 15.23314194687676
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2789
-First Name: Jessica
-Last Name: Jova
-Gender: female
-Age: 18
-Address: Videvägen 19, Huddinge
-Coordinates: Lat: 59.24560843017878, Lng: 17.977776393497926
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2847
-First Name: Sanaa Liv Yousef
-Last Name: Hasne
-Gender: female
-Age: 18
-Address: Jägarstigen 16, Huddinge
-Coordinates: Lat: 59.25268926407207, Lng: 18.013734780562146
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2797
-First Name: Noel Erik Natanael
-Last Name: Andrén
-Gender: male
-Age: 18
-Address: Rörhed 2, Torslanda
-Coordinates: Lat: 57.73877657389015, Lng: 11.807642153847004
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2920
-First Name: Hilma Anna Elisabet
-Last Name: Karlström
-Gender: female
-Age: 18
-Address: Fogdegatan 11, Jönköping
-Coordinates: Lat: 57.785205864527384, Lng: 14.2183507886466
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2813
-First Name: Leo Konstantin
-Last Name: Popov
-Gender: male
-Age: 18
-Address: Sägengatan 19 lgh 1303, Hisings Backa
-Coordinates: Lat: 57.745023609899235, Lng: 11.977755419758882
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2896
-First Name: Isak Olof
-Last Name: Wendin
-Gender: male
-Age: 18
-Address: Sickla Kanalgata 19 B lgh 1201, Stockholm
-Coordinates: Lat: 59.30599781788167, Lng: 18.10395385510067
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2953
-First Name: Victor Oliver Christian
-Last Name: Johansson
-Gender: male
-Age: 18
-Address: Vibble Tvinnaregatan 38, Visby
-Coordinates: Lat: 57.600847674262084, Lng: 18.243649177949138
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2961
-First Name: Bayan
-Last Name: Kasso
-Gender: female
-Age: 18
-Address: Bragevägen 15 L, Fagersta
-Coordinates: Lat: 60.00607145246652, Lng: 15.79709574021565
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2938
-First Name: Per Vilgot
-Last Name: Sundström
-Gender: male
-Age: 18
-Address: Sköldvägen 9 B, Åkersberga
-Coordinates: Lat: 59.47570418553431, Lng: 18.319401229978048
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3092
-First Name: Emil Oskar
-Last Name: Pantzare
-Gender: male
-Age: 18
-Address: Svarvhultsåsen 13, Sandared
-Coordinates: Lat: 57.70938192073791, Lng: 12.763109435573263
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3159
-First Name: Karl Fjodor
-Last Name: Forsman Borg
-Gender: male
-Age: 18
-Address: Björnspinnarvägen 47, Huddinge
-Coordinates: Lat: 59.24305946671499, Lng: 18.029180092576514
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3175
-First Name: Leo Mikael
-Last Name: Jokinen
-Gender: male
-Age: 18
-Address: Kongahällagatan 7 lgh 1202, Kungälv
-Coordinates: Lat: 57.87095751762788, Lng: 11.964794378636533
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-2821
-First Name: Zahraa
-Last Name: Yatama
-Gender: female
-Age: 18
-Address: Humlevägen 10 lgh 1201, Trollhättan
-Coordinates: Lat: 58.25873234239085, Lng: 12.282272451956006
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3266
-First Name: Ellinea Afroditi Aina
-Last Name: Siambalis
-Gender: female
-Age: 18
-Address: Korsvägen 3 lgh 1202, Täby
-Coordinates: Lat: 59.435558694923586, Lng: 18.059360264973687
-Marital Status: false
-Has Corporate Engagements: true
-
-SSN: 20050321-3183
-First Name: Mahla
-Last Name: Jafari
-SSN: 20050321-3191
-First Name: Johan Oskar
-Last Name: Johansson
-Gender: male
-Age: 18
-Address: Nolby 310, Kode
-Coordinates: Lat: 57.953465061733894, Lng: 11.908903251740487
-Marital Status: false
-Has Corporate Engagements: false
-
-Gender: female
-Age: 18
-Address: Krusbärsvägen 2 F lgh 1001, Strängnäs
-Coordinates: Lat: 59.36146561800567, Lng: 17.014634256818187
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3258
-First Name: Olle Martin
-Last Name: Langwagen
-Gender: male
-Age: 18
-Address: Portalgatan 29 lgh 1601, Uppsala
-Coordinates: Lat: 59.867669646763815, Lng: 17.639228102120832
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3233
-First Name: Wali
-Last Name: Majidi
-Gender: male
-Age: 18
-Address: Fyrislundsgatan 31 C lgh 1401, Uppsala
-Coordinates: Lat: 59.8693437636323, Lng: 17.679562027424836
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3217
-First Name: Rasmus Erik
-Last Name: Lund
-Gender: male
-Age: 18
-Address: Kilanda-Hult 185, Älvängen
-Coordinates: Lat: 57.932540115627845, Lng: 12.230171898466034
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3357
-First Name: Orm Kettil
-Last Name: Leke
-Gender: male
-Age: 18
-Address: Långåsvägen 80, Lindome
-Coordinates: Lat: 57.553097727244875, Lng: 12.038604231874784
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3332
-First Name: Walle Olof
-Last Name: Tunsved
-Gender: male
-Age: 18
-Address: Torsvägen 7 A, Örebro
-Coordinates: Lat: 59.28043310751411, Lng: 15.240966370502106
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3225
-First Name: Fariba
-Last Name: Akbari
-Gender: female
-Age: 18
-Address: Klockarevägen 14 I, Svedala
-Coordinates: Lat: 55.51383742994162, Lng: 13.226474280723588
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3407
-First Name: Clara Ottilia
-Last Name: Nilsson
-Gender: female
-Age: 18
-Address: Åsteby 143, Torsby
-Coordinates: Lat: 60.26332576386198, Lng: 13.033144431938956
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3415
-First Name: Adam Allan
-Last Name: Khalil Nijaz
-Gender: male
-Age: 18
-Address: Mölnesjögatan 134, Angered
-Coordinates: Lat: 57.80792899837131, Lng: 12.069798879280892
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3431
-First Name: Hjalmar Theodor
-Last Name: Nilsson
-Gender: male
-Age: 18
-Address: Tunnlandsgatan 7, Kinna
-Coordinates: Lat: 57.50039376587541, Lng: 12.674041117903636
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3373
-First Name: James Isaac
-Last Name: Aubynn Boakye
-Gender: male
-Age: 18
-Address: Nilssonsberg 37 lgh 1304, Göteborg
-Coordinates: Lat: 57.69515475509821, Lng: 11.96057380968307
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3399
-First Name: Oliver Filip
-Last Name: Ahlqvist
-Gender: male
-Age: 18
-Address: Ternings gata 19, Vellinge
-Coordinates: Lat: 55.47762382062348, Lng: 13.026367260146591
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3555
-First Name: Folke Pelle
-Last Name: Svensson
-Gender: male
-Age: 18
-Address: Stengatan 18 lgh 1001, Lysekil
-Coordinates: Lat: 58.27527751407357, Lng: 11.432235567206357
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3514
-First Name: Ali Mohanad Abdulqader
-Last Name: Abdulqader
-Gender: male
-Age: 18
-Address: , 
-Coordinates: Lat: , Lng: 
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3506
-First Name: Shahed
-Last Name: Kashkash
-Gender: female
-Age: 18
-Address: Göingegatan 15 lgh 1301, Kristianstad
-Coordinates: Lat: 56.061025997226636, Lng: 14.157533027118484
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3613
-First Name: Kazper Rikard
-Last Name: Karlsson
-Gender: male
-Age: 18
-Address: Älgstigen 3, Halmstad
-Coordinates: Lat: 56.68549447234814, Lng: 12.882129234703187
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3662
-First Name: Johanna Greta Salome
-Last Name: Schlyter
-Gender: female
-Age: 18
-Address: Mäklarstigen 3, Huddinge
-Coordinates: Lat: 59.24655338529, Lng: 17.981683680117516
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3720
-First Name: Betel Rediet
-Last Name: Gebremichel
-Gender: female
-Age: 18
-Address: Aftongatan 54, Göteborg
-Coordinates: Lat: 57.76246417183894, Lng: 12.034087722443294
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3688
-First Name: Magda Signe Katarina
-Last Name: Norén
-Gender: female
-Age: 18
-Address: Sjåaregatan 1 lgh 1001, Gävle
-Coordinates: Lat: 60.68030496898089, Lng: 17.16333209751354
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3712
-First Name: Fred Alexander Björnson
-Last Name: Havden
-Gender: male
-Age: 18
-Address: Vikbyvägen 64, Lidingö
-Coordinates: Lat: 59.37747538419014, Lng: 18.148392125541484
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3738
-First Name: Per Bertil Alexander
-Last Name: Viklund
-Gender: male
-Age: 18
-Address: Lökvägen 2, Stöde
-Coordinates: Lat: 62.40879384962103, Lng: 16.576736319648422
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3746
-First Name: Amanda Julia Britta
-Last Name: Fabel
-Gender: female
-Age: 18
-Address: Geijerskolan 1, Ransäter
-Coordinates: Lat: , Lng: 
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3803
-First Name: Elin Astrid
-Last Name: Thuresson
-Gender: female
-Age: 18
-Address: Segelvägen 3 B, Kolmården
-Coordinates: Lat: 58.66425500891819, Lng: 16.38995874477664
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3811
-First Name: Marcus Paulus
-Last Name: Mansour
-Gender: male
-Age: 18
-Address: Björkvägen 97, Tumba
-Coordinates: Lat: 59.18611404998565, Lng: 17.828569853563316
-Marital Status: false
-Has Corporate Engagements: true
-
-SSN: 20050321-3787
-First Name: Vilma Naemi
-Last Name: Falk
-Gender: female
-Age: 18
-Address: Ormeshaga 23, Hovmantorp
-Coordinates: Lat: 56.75361654882689, Lng: 15.169202334690581
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3571
-First Name: Jonathan Per Lars
-Last Name: Nilsson
-Gender: male
-Age: 18
-Address: Fornminnesvägen 34 lgh 1002, Vallentuna
-Coordinates: Lat: 59.53818908446078, Lng: 18.072282638789527
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3761
-First Name: Greta Märta
-Last Name: Tagg Olsson
-Gender: female
-Age: 18
-Address: Lindefallet 907, Enånger
-Coordinates: Lat: 61.48384724041943, Lng: 16.915060804828663
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3589
-First Name: Jessy Abdelahad
-Last Name: Gorgis
-Gender: female
-Age: 18
-Address: Tellusgatan 30 lgh 1401, Jönköping
-Coordinates: Lat: 57.78137603490705, Lng: 14.242659783333444
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3829
-First Name: Klaudija
-Last Name: Majauskaite
-Gender: female
-Age: 18
-Address: Vallvägen 2, Skee
-Coordinates: Lat: 58.92476950080121, Lng: 11.270098626586519
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3837
-First Name: Leandro Lucas Vallentin
-Last Name: Söderström
-Gender: male
-Age: 18
-Address: Grynmalaregatan 5 lgh 1203, Lund
-Coordinates: Lat: 55.69989186769717, Lng: 13.19459378098308
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3944
-First Name: Hilda Christina Cecilia
-Last Name: Larsson
-Gender: female
-Age: 18
-Address: Bruksgatan 17 lgh 1001, Ystad
-Coordinates: Lat: 55.433721771418725, Lng: 13.824287698343312
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3928
-First Name: Lovisa Ingrid Alexzandra
-Last Name: Olsson Granath
-Gender: female
-Age: 18
-Address: Sköldgatan 10 lgh 1104, Stockholm
-Coordinates: Lat: 59.31237418571709, Lng: 18.056747849852794
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3977
-First Name: Leo Robert
-Last Name: van Leeuwen
-Gender: male
-Age: 18
-Address: Jaktviksvägen 36, Luleå
-Coordinates: Lat: 65.51993905298993, Lng: 22.055217248445008
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3993
-First Name: Ali Sina
-Last Name: Amini
-Gender: male
-Age: 18
-Address: Hedbovägen 2 C lgh 1101, Skene
-Coordinates: Lat: 57.485152112846556, Lng: 12.64549526990205
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3951
-First Name: Benjamin James
-Last Name: Hall
-Gender: male
-Age: 18
-Address: Svarvaregatan 5, Kristinehamn
-Coordinates: Lat: 59.32157262785473, Lng: 14.11150554628915
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3969
-First Name: Molly Nina-Pia
-Last Name: Edlund
-Gender: female
-Age: 18
-Address: Jät Ljusadal 1, Jät
-Coordinates: Lat: 56.65437753510175, Lng: 14.853410249671391
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3886
-First Name: Neamatalla
-Last Name: Ghannam
-Gender: female
-Age: 18
-Address: Svartbäcksgatan 9, Malmö
-Coordinates: Lat: 55.580709645966984, Lng: 12.970098084148951
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-3860
-First Name: Tara
-Last Name: Abdollazadeh
-Gender: female
-Age: 18
-Address: Tråddragargatan 27 A lgh 1001, Västerås
-Coordinates: Lat: 59.62232854321333, Lng: 16.58475148693931
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4009
-First Name: Clara Maria Johanna
-SSN: 20050321-3902
-First Name: Xi
-Last Name: Huang
-Gender: female
-Age: 18
-Address: Sturegatan 12 A lgh 1303, Uppsala
-Last Name: Sarri
-Coordinates: Lat: 59.86268730061521, Lng: 17.62654670217452
-Marital Status: false
-Gender: female
-Has Corporate Engagements: false
-
-Age: 18
-Address: Slagavägen 6, Bålsta
-Coordinates: Lat: 59.562959797284655, Lng: 17.495134365526546
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4033
-First Name: Alfred Per Benny
-Last Name: Lundgren
-Gender: male
-Age: 18
-Address: Kavenvägen 209, Ljusdal
-Coordinates: Lat: 61.84317264199724, Lng: 16.122902303088715
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4124
-First Name: Elin Malva Liselotte
-Last Name: Hagström
-Gender: female
-Age: 18
-Address: Beteby 502, Mörbylånga
-Coordinates: Lat: 56.49704637827719, Lng: 16.392970383881895
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4157
-First Name: Hampus Sten Eric
-Last Name: Dahlberg
-Gender: male
-Age: 18
-Address: Ljunggatan 8, Mjölby
-Coordinates: Lat: 58.31796601099892, Lng: 15.138214558677872
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4173
-First Name: Bror Axel Lucas
-Last Name: Engström
-Gender: male
-Age: 18
-Address: Ragnvallagatan 8 C lgh 1101, Helsingborg
-Coordinates: Lat: 56.048131884146045, Lng: 12.741148651631818
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4207
-First Name: Izabella Anna
-Last Name: Herdland
-Gender: female
-Age: 18
-Address: Pipersgatan 24, Stockholm
-Coordinates: Lat: 59.33150949473577, Lng: 18.046383478780424
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4199
-First Name: Simon Patrick
-Last Name: Gillmor
-Gender: male
-Age: 18
-Address: Anders Zornsgatan 25 B lgh 1002, Göteborg
-Coordinates: Lat: 57.70211961567375, Lng: 12.015621371638897
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4298
-First Name: Edvin Erik Johan
-Last Name: Lindemalm
-Gender: male
-Age: 18
-Address: Vinghästvägen 12, Bromma
-Coordinates: Lat: 59.32149199077742, Lng: 17.94019552696725
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4306
-First Name: Astrid Hanna Terese
-Last Name: Emilsson
-Gender: female
-Age: 18
-Address: Björnaholmen 3, Bodafors
-Coordinates: Lat: 57.52898070433826, Lng: 14.718077471181333
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4272
-First Name: George
-Last Name: Asia
-Gender: male
-Age: 18
-Address: Ekgårdsvägen 26 F lgh 1006, Södertälje
-Coordinates: Lat: 59.222712021974836, Lng: 17.628057794242242
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4421
-First Name: Filippa Bianca Camilla
-Last Name: Jagborn
-Gender: female
-Age: 18
-Address: Grengatan 25, Mullsjö
-Coordinates: Lat: 57.92997435733268, Lng: 13.877556847455004
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4363
-First Name: Jessie Celine
-Last Name: Jeppsson Fagerström
-Gender: female
-Age: 18
-Address: Välanvägen 77, Saxtorp
-Coordinates: Lat: 55.8269243634892, Lng: 12.933885260931833
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4447
-First Name: Khadija
-Last Name: Mohammadi
-Gender: female
-Age: 18
-Address: Sotåsgatan 3 lgh 1105, Huskvarna
-Coordinates: Lat: 57.78808474216743, Lng: 14.316528273980492
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4496
-First Name: Juan Carlos
-Last Name: Ramón García
-Gender: male
-Age: 18
-Address: Ekebyvägen 14 lgh 1003, Vallentuna
-Coordinates: Lat: 59.544104450929844, Lng: 18.068444713171647
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4538
-First Name: Jan Anton Gabriel
-Last Name: Gabrielsson
-Gender: male
-Age: 18
-Address: Vitsippsvägen 27, Gustafs
-Coordinates: Lat: 60.41205257298609, Lng: 15.600065144913115
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4454
-First Name: Edvin Rikard
-Last Name: Hallström
-Gender: male
-Age: 18
-Address: Jakthornsvägen 12, Värmdö
-Coordinates: Lat: 59.29914162707578, Lng: 18.50255114994212
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4470
-First Name: Liam Elvis
-Last Name: Schwalb
-Gender: male
-Age: 18
-Address: Kvartsvägen 102, Umeå
-Coordinates: Lat: 63.79965900549375, Lng: 20.31813270075033
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4595
-First Name: Marcus Göran Axel
-Last Name: Hedefalk
-Gender: male
-Age: 18
-Address: Lilla Nygatan 15 lgh 1304, Stockholm
-Coordinates: Lat: 59.32358907034501, Lng: 18.06908070882408
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4561
-First Name: Viktoria Amanda Margaretha
-Last Name: Sollén
-Gender: female
-Age: 18
-Address: Storgatan 23 lgh 1301, Härnösand
-Coordinates: Lat: 62.631691950971245, Lng: 17.938914523315916
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4579
-First Name: Gal
-Last Name: Teyar
-Gender: male
-Age: 18
-Address: Fosiedalsvägen 31, Malmö
-Coordinates: Lat: 55.572964200226735, Lng: 12.99253469097063
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4660
-First Name: Edith Solveig
-Last Name: Langeland
-Gender: female
-Age: 18
-Address: Poseidonvägen 7, Jönköping
-Coordinates: Lat: 57.769976714635824, Lng: 14.132087193396064
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4694
-First Name: Peter Erik Olof
-Last Name: Lindvall
-Gender: male
-Age: 18
-Address: Vallavägen 96, Handen
-Coordinates: Lat: 59.15873508334804, Lng: 18.14637547630297
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4637
-First Name: Mohsen
-Last Name: Nejati
-Gender: male
-Age: 18
-Address: Odins väg 3 A lgh 1101, Nynäshamn
-Coordinates: Lat: 58.90351266337087, Lng: 17.93643902364454
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4553
-First Name: Erik Viktor
-Last Name: Tunell
-Gender: male
-Age: 18
-Address: Trelleborgsvägen 9, Sundsvall
-Coordinates: Lat: 62.40538148472253, Lng: 17.277542727714966
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4702
-First Name: Fatema
-Last Name: Ghulami
-Gender: female
-Age: 18
-Address: Tallvägen 11, Sävsjö
-Coordinates: Lat: 57.392694920965255, Lng: 14.674609350928737
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4603
-First Name: Hanna Martina
-Last Name: Davidsson
-Gender: female
-Age: 18
-Address: Snårvägen 17, Jonstorp
-Coordinates: Lat: 56.232280114392594, Lng: 12.679405586400675
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4769
-First Name: Filippa Carolina
-Last Name: Bühlmann
-Gender: female
-Age: 18
-Address: Valfiskens gata 805, Haninge
-Coordinates: Lat: 59.17212750788621, Lng: 18.18340927726775
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4827
-First Name: Hedvig Cattarina
-Last Name: Blomstrand
-Gender: female
-Age: 18
-Address: Grönalundsvägen 4 B, Eskilstuna
-Coordinates: Lat: 59.38218777706311, Lng: 16.43213612967562
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4884
-First Name: Ingrid Alice Kristin
-Last Name: Persson
-Gender: female
-Age: 18
-Address: Sandfors 139, Kåge
-Coordinates: Lat: 64.91190021146815, Lng: 20.613668280058906
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4868
-First Name: Fyan
-Last Name: Hesso
-Gender: female
-Age: 18
-Address: Brogatan 20 lgh 1302, Halmstad
-Coordinates: Lat: 56.67460796585411, Lng: 12.855313142251996
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4900
-First Name: Esraa
-Last Name: Maghmoumah
-Gender: female
-Age: 18
-Address: Hospitalsgatan 40 lgh 1102, Norrköping
-Coordinates: Lat: 58.59162751440835, Lng: 16.194214385798468
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4728
-First Name: Moa Monica Margareta
-Last Name: Svensson
-Gender: female
-Age: 18
-Address: Ängsgatan 9, Hok
-Coordinates: Lat: 57.5097046180693, Lng: 14.275770727241904
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4918
-First Name: Edgar
-Last Name: Salame
-Gender: male
-Age: 18
-Address: Vildandsvägen 54, Farsta
-Coordinates: Lat: 59.245625218527614, Lng: 18.05911647784798
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4546
-First Name: Hanna Emelie Elisabeth
-Last Name: Sidén
-Gender: female
-Age: 18
-Address: Pianogränd 9, Järfälla
-Coordinates: Lat: 59.401606507692236, Lng: 17.787540785022845
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5048
-First Name: Ayni Abdullahi
-Last Name: Omar
-Gender: female
-Age: 18
-Address: Lustigkullevägen 26 C lgh 1003, Motala
-Coordinates: Lat: 58.53855205633468, Lng: 15.072909927723456
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5030
-First Name: Abolfazel
-Last Name: Mohammadi
-Gender: male
-Age: 18
-Address: Hjällbogärdet 46 lgh 1201, Angered
-Coordinates: Lat: 57.77000027684325, Lng: 12.034759101155785
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5022
-First Name: Anna Julia Ainhoa
-Last Name: Bengoa Lord
-Gender: female
-Age: 18
-Address: Ivar Vidfamnes gata 15 lgh 1002, Hägersten
-Coordinates: Lat: 59.30756112026467, Lng: 17.986702533362674
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5113
-First Name: Christian Luciano
-Last Name: Wiszniewski
-Gender: male
-Age: 18
-Address: Skorpionens gata 530 lgh 1602, Brandbergen
-Coordinates: Lat: 59.17345709454097, Lng: 18.177937984876674
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5097
-First Name: Julius Gustav
-Last Name: Agnepil
-Gender: male
-Age: 18
-Address: Strandbacken 30, Uttran
-Coordinates: Lat: 59.189029475033756, Lng: 17.794510725473117
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5147
-First Name: Najma Abdulkadir
-Last Name: Farah
-Gender: female
-Age: 18
-Address: Rimfrostgatan 49 lgh 1301, Göteborg
-Coordinates: Lat: 57.73062533227032, Lng: 11.89034822165409
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-4991
-First Name: Karl Tigris
-Last Name: Shemoun
-Gender: male
-Age: 18
-Address: Vantörsvägen 105, Älvsjö
-Coordinates: Lat: 59.27309440687457, Lng: 17.989824842206815
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5188
-First Name: Annie Maria Ingeborg
-Last Name: Brander
-Gender: female
-Age: 18
-Address: Sörlyckan 53, Sävedalen
-Coordinates: Lat: 57.7123226910644, Lng: 12.084280637966978
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5238
-First Name: Carl Emrik
-Last Name: Åstenius
-Gender: male
-Age: 18
-Address: Hökvägen 6, Alingsås
-Coordinates: Lat: 57.92169666382052, Lng: 12.531428328368097
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5246
-First Name: Tilde Lilly Marie
-Last Name: Josefsson
-Gender: female
-Age: 18
-Address: Larsgatan 18 A, Borås
-Coordinates: Lat: 57.72340577899687, Lng: 12.915944920467133
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5337
-First Name: Abdulbassit
-Last Name: Toumeh
-Gender: male
-Age: 18
-Address: Svarvargatan 7 lgh 1703, Sandviken
-Coordinates: Lat: 60.62087641880095, Lng: 16.75995160624183
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5287
-First Name: Sara Ammar
-Last Name: Salmo
-Gender: female
-Age: 18
-Address: Söderby Torgs allé 27, Rönninge
-Coordinates: Lat: 59.20311978988961, Lng: 17.78615984063862
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5378
-First Name: Armin
-Last Name: Davoodi
-Gender: male
-Age: 18
-Address: Holmfrids väg 23, Täby
-Coordinates: Lat: 59.49985292850593, Lng: 18.09403450312834
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5444
-First Name: Amanda Solveig
-Last Name: Helldén
-Gender: female
-Age: 18
-Address: Pallgatan 71, Helsingborg
-Coordinates: Lat: 56.05809388824032, Lng: 12.749890435412999
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5360
-First Name: Amanda Maria Kristina
-Last Name: Dahlberg
-Gender: female
-Age: 18
-Address: Hablingbo Simes 448, Havdhem
-Coordinates: Lat: 57.206639257638855, Lng: 18.239680185893775
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5469
-First Name: Rebecca
-Last Name: Saade
-Gender: female
-Age: 18
-Address: Kvarnfallsvägen 16, Borgstena
-Coordinates: Lat: 57.885930670612964, Lng: 13.020694085469149
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5394
-First Name: Dimitrios
-Last Name: Syriopoulos
-Gender: male
-Age: 18
-Address: Oskarsvägen 3 B lgh 1201, Örebro
-Coordinates: Lat: 59.269189995445984, Lng: 15.229085291070154
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5501
-First Name: Louise Mia Theresia
-Last Name: Schön Danielsson
-Gender: female
-Age: 18
-Address: Bivägen 10, Åkersberga
-Coordinates: Lat: 59.48286409137033, Lng: 18.318633636733825
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5196
-First Name: Noak Alexander Magnus
-Last Name: Lidman
-Gender: male
-Age: 18
-Address: Spänstvägen 35, Torslanda
-Coordinates: Lat: 57.76983845004149, Lng: 11.842710595345956
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5568
-First Name: Kajsa Emma Beata
-Last Name: Persson
-Gender: female
-Age: 18
-Address: Planteringsvägen 81 lgh 1101, Helsingborg
-Coordinates: Lat: 56.02085238950257, Lng: 12.71887236210582
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5402
-First Name: Matilda
-Last Name: Svärd
-Gender: female
-Age: 18
-Address: Näsbyvägen 7 A, Tyresö
-Coordinates: Lat: 59.21316675148633, Lng: 18.205109930960166
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5626
-First Name: Lova Ingrid Elisabeth
-Last Name: Nordström
-Gender: female
-Age: 18
-Address: Bergamovägen 11, Nykvarn
-Coordinates: Lat: 59.17921474821301, Lng: 17.44371289284184
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5642
-First Name: Hilde Elisabeth
-Last Name: Gustafsson
-Gender: female
-Age: 18
-Address: Dalsbyvägen 2, Säter
-Coordinates: Lat: 60.35576810846267, Lng: 15.750397563646914
-Marital Status: false
-Has Corporate Engagements: false
-
-SSN: 20050321-5584
-First Name: Sandrine
-Last Name: Uwineza
-Gender: female
-Age: 18
-Address: Ringvägen 32 C lgh 1102, Söderköping
-Coordinates: Lat: 58.47299347438643, Lng: 16.31734016059498
-Marital Status: false
-Has Corporate Engagements: false
-
+SSN: 19940103-1332, First Name: Akram Eduard, Last Name: Mahmod, Gender: male, Age: 29, Address: Nekvägen 41 lgh 1408, Spånga, Coordinates: Lat: 59.37777746624926, Lng: 17.90847650074954, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1357, First Name: Mousa, Last Name: Mousa, Gender: male, Age: 29, Address: Ågärdevägen 7 lgh 1101, Södertälje, Coordinates: Lat: 59.184417441813466, Lng: 17.627822385397177, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1365, First Name: Seba, Last Name: Alkhatib, Gender: female, Age: 29, Address: Idrottsgatan 5 B, Mellerud, Coordinates: Lat: 58.706123842278394, Lng: 12.46019769633664, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1233, First Name: Andreas Nils Erik, Last Name: Nylander, Gender: male, Age: 29, Address: Tändsticksvägen 12 B lgh 1101, Västervik, Coordinates: Lat: 57.764924079861856, Lng: 16.649410739930662, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-1290, First Name: Abdulwasie Siraj, Last Name: Abdella, Gender: male, Age: 29, Address: Mässvägen 11 A lgh 1202, Sollentuna, Coordinates: Lat: 59.42581959726926, Lng: 17.948735175648647, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1415, First Name: Ayham, Last Name: Al Shannaa, Gender: male, Age: 29, Address: Oriongatan 5 H, Strängnäs, Coordinates: Lat: 59.36340864798643, Lng: 17.023085441672002, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1407, First Name: Emma Elisabeth, Last Name: Värnqvist, Gender: female, Age: 29, Address: Morkullegatan 3, Östhammar, Coordinates: Lat: 60.24967874614813, Lng: 18.38457271502072, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1381, First Name: Ebba Karin Maria, Last Name: Svenzén, Gender: female, Age: 29, Address: Drottninggatan 43 G lgh 1201, Linköping, Coordinates: Lat: 58.408343403880174, Lng: 15.619643513239161, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1373, First Name: Mehmet, Last Name: Özdemir, Gender: male, Age: 29, Address: Fjelie Laxmansväg 18, Bjärred, Coordinates: Lat: 55.737634381510944, Lng: 13.102119903662214, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1399, First Name: Carl Oscar Anton, Last Name: Hedberg, Gender: male, Age: 29, Address: Valhallavägen 17 C, Örnsköldsvik, Coordinates: Lat: 63.29378428364214, Lng: 18.7328076051707, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1423, First Name: Sanna Ulrika Louise, Last Name: Falk, Gender: female, Age: 29, Address: Gregorianska Gatan 29 lgh 1302, Göteborg, Coordinates: Lat: 57.74756712329222, Lng: 12.025266656855761, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1431, First Name: Yaser, Last Name: Hassroun, Gender: male, Age: 29, Address: Formaregatan 17 lgh 1302, Norrköping, Coordinates: Lat: 58.569361566697765, Lng: 16.206983543027928, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1456, First Name: Erik Viktor, Last Name: Sjölund, Gender: male, Age: 29, Address: Torekovsgatan 22 A lgh 1302, Malmö, Coordinates: Lat: 55.5917879761711, Lng: 13.021834898656687, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1472, First Name: Harde Saman, Last Name: Tawfeek, Gender: male, Age: 29, Address: Prästgårdsgränd 16 lgh 1105, Älvsjö, Coordinates: Lat: 59.28126921391036, Lng: 18.010685270386976, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1464, First Name: Roqia, Last Name: Zafari, Gender: female, Age: 29, Address: Klockarevägen 15 C lgh 1201, Dalby, Coordinates: Lat: 55.66686542366506, Lng: 13.345745246713086, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1340, First Name: Suhaila, Last Name: Kanawati, Gender: female, Age: 29, Address: Mejramgatan 14 lgh 1302, Angered, Coordinates: Lat: 57.81813118493732, Lng: 12.034196854235715, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1449, First Name: Sidika, Last Name: Altay, Gender: female, Age: 29, Address: Västra Hagagatan 3 B lgh 1101, Hässleholm, Coordinates: Lat: 56.15446399039017, Lng: 13.774443482488246, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1308, First Name: Nejat Ismael, Last Name: Mohammed, Gender: female, Age: 29, Address: Skördegatan 2 lgh 1002, Borlänge, Coordinates: Lat: 60.49382611644032, Lng: 15.421133042174477, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1324, First Name: Nyakon Bol, Last Name: Ruach, Gender: female, Age: 29, Address: Kråkrisvägen 12 C lgh 1001, Motala, Coordinates: Lat: 58.54750868426237, Lng: 15.034817842618784, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1480, First Name: Betty, Last Name: Tabu, Gender: female, Age: 29, Address: Hasselbackevägen 36 lgh 1002, Stenungsund, Coordinates: Lat: 58.063256817982484, Lng: 11.84270795249572, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1514, First Name: Per Rasmus, Last Name: Möller Petersson, Gender: male, Age: 29, Address: Torggatan 16 lgh 1102, Kvidinge, Coordinates: Lat: 56.13535471195894, Lng: 13.049143210515076, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-1555, First Name: Salah Aldine, Last Name: Alabdala, Gender: male, Age: 29, Address: Kungsmarksvägen 65 lgh 1502, Karlskrona, Coordinates: Lat: 56.19727158617366, Lng: 15.618749985955322, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1548, First Name: Ida Jasmine Maria, Last Name: Sedin, Gender: female, Age: 29, Address: Ida Adamssons gata 14 A lgh 1104, Eskilstuna, Coordinates: Lat: 59.37873800888178, Lng: 16.512746331981727, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1506, First Name: Siba, Last Name: Abdulahad, Gender: female, Age: 29, Address: Rissneleden 55 lgh 1301, Sundbyberg, Coordinates: Lat: 59.37755911272643, Lng: 17.961648038458254, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-1498, First Name: Hassan, Last Name: Bajbouj, Gender: male, Age: 29, Address: Kuskgatan 18 lgh 1202, Trollhättan, Coordinates: Lat: 58.263730339522105, Lng: 12.305126630831385, Marital Status: true, Has Corporate Engagements: true
+SSN: 19940103-1522, First Name: Layla Abdullah Ahmed, Last Name: Zeebaree, Gender: female, Age: 29, Address: Två Systrars väg 8 A lgh 1102, Kalmar, Coordinates: Lat: 56.704087448961026, Lng: 16.34692577434157, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1530, First Name: Markus Tadeus, Last Name: Mörk, Gender: male, Age: 29, Address: Ålgrytevägen 118 lgh 1306, Skärholmen, Coordinates: Lat: 59.298479470554675, Lng: 17.929305439884246, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1571, First Name: Don Jonathan, Last Name: Bergman, Gender: male, Age: 29, Address: Källgatan 7 lgh 1203, Luleå, Coordinates: Lat: 65.597613180513, Lng: 22.156094631508136, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1605, First Name: Sona Maria, Last Name: Hellman, Gender: female, Age: 29, Address: Vintrosagatan 15 lgh 1604, Bandhagen, Coordinates: Lat: 59.261709155867486, Lng: 18.01779406827444, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1589, First Name: Linda Elisabeth, Last Name: Hammarbäck, Gender: female, Age: 29, Address: Hammargatan 10 D, Trosa, Coordinates: Lat: 58.906736552510715, Lng: 17.554547203747113, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1639, First Name: Mohamed, Last Name: Jamal Moalin, Gender: male, Age: 29, Address: , , Coordinates: Lat: , Lng: , Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1654, First Name: Ibrahim Alkalil, Last Name: Arab, Gender: male, Age: 29, Address: Örebrogatan 6 lgh 1503, Göteborg, Coordinates: Lat: 57.71776194356031, Lng: 11.909034159742632, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1563, First Name: Dekan, Last Name: Gollani, Gender: female, Age: 29, Address: Eriksbo Västergärde 12 lgh 1203, Angered, Coordinates: Lat: 57.771016831295825, Lng: 12.038235380152273, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1613, First Name: Vicktor Kent, Last Name: Jansson, Gender: male, Age: 29, Address: Tätorpsvägen 126, Skarpnäck, Coordinates: Lat: 59.26688111638058, Lng: 18.14044856253508, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1621, First Name: Farah, Last Name: Fando, Gender: female, Age: 29, Address: Axel Johnsons väg 115 A lgh 1101, Avesta, Coordinates: Lat: 60.14197869210689, Lng: 16.156084179854943, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1647, First Name: Foziya Yusuuf, Last Name: Abazaban, Gender: female, Age: 29, Address: Ängstugevägen 1 B lgh 1103, Nyköping, Coordinates: Lat: 58.756024803219546, Lng: 17.04157234142644, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1696, First Name: Mohammad, Last Name: Sarhin, Gender: male, Age: 29, Address: Köldgatan 6 lgh 1002, Göteborg, Coordinates: Lat: 57.71924568386614, Lng: 11.888290249677972, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1670, First Name: Adam, Last Name: Andersson, Gender: male, Age: 29, Address: Mörbykvarn 514, Märsta, Coordinates: Lat: 59.6752869359228, Lng: 18.044756608596717, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1662, First Name: Sukara, Last Name: Steven Tuna, Gender: female, Age: 29, Address: Årbygatan 3 A lgh 1101, Eskilstuna, Coordinates: Lat: 59.38166142782317, Lng: 16.52167273503525, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1688, First Name: Sofia Camilla, Last Name: Andreasson, Gender: female, Age: 29, Address: Föreningsgatan 41 lgh 1502, Göteborg, Coordinates: Lat: 57.696170770328635, Lng: 11.970530349327985, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1746, First Name: Faiza Ibrahim, Last Name: Omer Osman, Gender: female, Age: 29, Address: Skeppar Karls gränd 5 lgh 1101, Härnösand, Coordinates: Lat: 62.637264786807094, Lng: 17.947282530446195, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1753, First Name: Alla, Last Name: Katbeh, Gender: male, Age: 29, Address: Övergårdsvägen 59 vån 2, Höviksnäs, Coordinates: Lat: 58.03069213556154, Lng: 11.740486363728225, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1761, First Name: Julia Maria Isabelle, Last Name: Åkesson, Gender: female, Age: 29, Address: Vinkelgatan 36 lgh 1201, Norrköping, Coordinates: Lat: 58.58220441636765, Lng: 16.16334260547807, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1795, First Name: Leopold Karel Jörgen, Last Name: Mensah, Gender: male, Age: 29, Address: Kobbeslätten 8 C bv, Askim, Coordinates: Lat: 57.63875056669359, Lng: 11.943501131159897, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1738, First Name: Farkad, Last Name: Al-Jweer, Gender: male, Age: 29, Address: Rudstigen 13, Södertälje, Coordinates: Lat: 59.151035437719045, Lng: 17.652472154574035, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1712, First Name: Lars Jonatan, Last Name: Henricson, Gender: male, Age: 29, Address: Tullgarnsgatan 23 lgh 1203, Uppsala, Coordinates: Lat: 59.84979756131013, Lng: 17.654133622764903, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1811, First Name: Safwan Ahmed Ali, Last Name: Al-Khamri, Gender: male, Age: 29, Address: Varpholmsgränd 17, Skärholmen, Coordinates: Lat: 59.280917650441936, Lng: 17.896284615059674, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1852, First Name: Ebengo, Last Name: Salehe, Gender: male, Age: 29, Address: Skäggetorps Centrum 14 lgh 1105, Linköping, Coordinates: Lat: 58.42727900326972, Lng: 15.580142577417833, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1803, First Name: Sandra Mirjam Mikaela, Last Name: Siira, Gender: female, Age: 29, Address: Bergsmansvägen 5, Guldsmedshyttan, Coordinates: Lat: 59.68915919022256, Lng: 15.098562259795685, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1720, First Name: Jurom Anday, Last Name: Weldab, Gender: female, Age: 29, Address: Åshöjdsvägen 48 lgh 1001, Nykvarn, Coordinates: Lat: 59.17679943569162, Lng: 17.432625651078713, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1837, First Name: Ammar, Last Name: Alismael, Gender: male, Age: 29, Address: Duvgatan 19 lgh 1103, Jönköping, Coordinates: Lat: 57.78354802639606, Lng: 14.240263778675562, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1829, First Name: Sandra, Last Name: Väyrynen, Gender: female, Age: 29, Address: Karlstorpsvägen 122 M 1 tr, Trollhättan, Coordinates: Lat: 58.27508722890373, Lng: 12.295838078297166, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1860, First Name: Semra, Last Name: Abik, Gender: female, Age: 29, Address: Åkeshovsvägen 16 lgh 1402, Bromma, Coordinates: Lat: 59.33461616660083, Lng: 17.933935575777376, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1845, First Name: Citlali, Last Name: Avila Bello, Gender: female, Age: 29, Address: Trädgränd 6, Oskarshamn, Coordinates: Lat: 57.266196720878845, Lng: 16.44128174794858, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1886, First Name: Marwa, Last Name: Karrar Idris Noor, Gender: female, Age: 29, Address: Billdalsgatan 28 lgh 1702, Borås, Coordinates: Lat: 57.726428290175235, Lng: 12.93303820978908, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1878, First Name: Radoslaw, Last Name: Kiedewicz, Gender: male, Age: 29, Address: Ragnvallagatan 12 A lgh 1203, Helsingborg, Coordinates: Lat: 56.0471482698176, Lng: 12.740780356560524, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1894, First Name: Abdelrahman Mustafa, Last Name: Saleh, Gender: male, Age: 29, Address: Virebergsvägen 3 lgh 1102, Solna, Coordinates: Lat: 59.36094513533576, Lng: 17.992007331730996, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1902, First Name: Sofie Angelica, Last Name: Borgstedt, Gender: female, Age: 29, Address: Lupinvägen 41, Västerås, Coordinates: Lat: 59.65225034071576, Lng: 16.55583415630766, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1951, First Name: Milan, Last Name: Mirkhan, Gender: male, Age: 29, Address: Hantverkargatan 4 B lgh 1002, Gävle, Coordinates: Lat: 60.67578392528681, Lng: 17.1318985845845, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-1969, First Name: Doha, Last Name: Ayoub, Gender: female, Age: 29, Address: Idunavägen 7 A lgh 1101, Uddevalla, Coordinates: Lat: 58.35776706557227, Lng: 11.933311711059096, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1928, First Name: Mahalet, Last Name: Haile Selassie, Gender: female, Age: 29, Address: Kyndelgränd 6, Tyresö, Coordinates: Lat: 59.23350289015228, Lng: 18.2282250300903, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1936, First Name: Omar Mohyadiin, Last Name: Abiker, Gender: male, Age: 29, Address: Läkarvägen 4 A lgh 1001, Skellefteå, Coordinates: Lat: 64.75895489967421, Lng: 20.944057319435608, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1977, First Name: Sami, Last Name: Alabed, Gender: male, Age: 29, Address: Arrheniusgatan 26 lgh 1505, Kalmar, Coordinates: Lat: 56.67738594830364, Lng: 16.332493920435383, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2017, First Name: Frej Gustav Philip, Last Name: Assmundson, Gender: male, Age: 29, Address: Prästgårdsgatan 44 A, Göteborg, Coordinates: Lat: 57.70487008642827, Lng: 12.010057649167702, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-2025, First Name: Kawthr Abdalla Ismail, Last Name: Mohamed, Gender: female, Age: 29, Address: Buntmakargatan 78, Visby, Coordinates: Lat: 57.6102182149085, Lng: 18.310066039699123, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2033, First Name: Omar, Last Name: Al Hamadi, Gender: male, Age: 29, Address: Rönnäsvägen 48 lgh 1101, Ljungby, Coordinates: Lat: 56.835337080486624, Lng: 13.919346150472146, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-1993, First Name: Mohamad, Last Name: Ahmad, Gender: male, Age: 29, Address: Bergfotsvägen 16 C lgh 1308, Tumba, Coordinates: Lat: 59.19333602783318, Lng: 17.828615184459938, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2041, First Name: Dina, Last Name: Hatab, Gender: female, Age: 29, Address: Blomstervägen 11 lgh 1201, Bro, Coordinates: Lat: 59.51500118933883, Lng: 17.64293541616106, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-1985, First Name: Amleset Mana, Last Name: Biedemariyam, Gender: female, Age: 29, Address: Rindö Ekudde 3, Vaxholm, Coordinates: Lat: 59.399749912393595, Lng: 18.418325914949747, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2090, First Name: Ameer Naseer Rasheed Khalaf, Last Name: Alagele, Gender: male, Age: 29, Address: Nackstavägen 16 D lgh 1204, Sundsvall, Coordinates: Lat: 62.389035472501426, Lng: 17.25861533000676, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2082, First Name: Amona Abdelghani, Last Name: Abdalla Ali, Gender: female, Age: 29, Address: Lustigkullevägen 18 A lgh 1002, Motala, Coordinates: Lat: 58.539586191554854, Lng: 15.071918677052988, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2058, First Name: Ishaq, Last Name: Jaber, Gender: male, Age: 29, Address: Bjässevägen 3 A, Hällefors, Coordinates: Lat: 59.78482434353881, Lng: 14.526195402441095, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2124, First Name: Zainab Abdelkarim Ali, Last Name: Adam, Gender: female, Age: 29, Address: Bjursdalsvägen 13 A lgh 1201, Boxholm, Coordinates: Lat: 58.19125265624619, Lng: 15.059326139754656, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2157, First Name: Saifadin Abdulmalik Yusuf, Last Name: Omar, Gender: male, Age: 29, Address: Hägerneholmsvägen 12 lgh 1406, Täby, Coordinates: Lat: 59.46842936889857, Lng: 18.122340874061027, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2132, First Name: Oscar Carl, Last Name: Johansson, Gender: male, Age: 29, Address: Bofinksvägen 6 C, Fågelmara, Coordinates: Lat: 56.25937049657677, Lng: 15.943856144798435, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2074, First Name: Leif Joakim, Last Name: Högberg, Gender: male, Age: 29, Address: Ingevägen 18, Kramfors, Coordinates: Lat: 62.92900181474917, Lng: 17.80686540632135, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2116, First Name: Merhawi, Last Name: Tesfit Kidane, Gender: male, Age: 29, Address: Kråkrisvägen 38 D lgh 1102, Motala, Coordinates: Lat: 58.548883378174956, Lng: 15.033564454916558, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2108, First Name: Nevin, Last Name: Abdi, Gender: female, Age: 29, Address: Skogsvägen 31 lgh 1106, Strängnäs, Coordinates: Lat: 59.383634266299175, Lng: 17.012415044026223, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2165, First Name: Amina Abdi Jama Barre, Last Name: Mohamed, Gender: female, Age: 29, Address: Frälsevägen 1 lgh 1003, Bro, Coordinates: Lat: 59.50594099904989, Lng: 17.615283759150724, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2207, First Name: Saowalak, Last Name: Yenfang, Gender: female, Age: 29, Address: Hamngatan 32 E lgh 1305, Sundbyberg, Coordinates: Lat: 59.36038536911093, Lng: 17.962782549793822, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2181, First Name: Elin Rebecka, Last Name: Jonsson, Gender: female, Age: 29, Address: Föreningsgatan 13 A lgh 1102, Kungsör, Coordinates: Lat: 59.420985636545666, Lng: 16.08631736502642, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2173, First Name: Wadie Hamed, Last Name: Abdullah, Gender: male, Age: 29, Address: Gluntens väg 4 lgh 1302, Umeå, Coordinates: Lat: 63.813228175419184, Lng: 20.300638611682995, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2215, First Name: Alaettin Mert, Last Name: Yaban, Gender: male, Age: 29, Address: Vågens gata 468 lgh 1201, Brandbergen, Coordinates: Lat: 59.17346108232742, Lng: 18.17435605277294, Marital Status: true, Has Corporate Engagements: true
+SSN: 19940103-2231, First Name: Peter Kevin, Last Name: Mårtensson, Gender: male, Age: 29, Address: Pantarholmskajen 6 B lgh 1002, Karlskrona, Coordinates: Lat: 56.17131976477577, Lng: 15.586796016297951, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2298, First Name: Alexander Bo Samuel, Last Name: Carlsson, Gender: male, Age: 29, Address: Artillerigatan 20 lgh 1101, Stockholm, Coordinates: Lat: 59.33424725471258, Lng: 18.081564862517958, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2272, First Name: Carl Johan Alex, Last Name: Holmberg, Gender: male, Age: 29, Address: Arlaborgsvägen 22, Örebro, Coordinates: Lat: 59.252033364330245, Lng: 15.16842196863135, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2140, First Name: Nafisa, Last Name: Ali Abass, Gender: female, Age: 29, Address: Stenskogsvägen 7 lgh 1001, Höör, Coordinates: Lat: 55.93008006227046, Lng: 13.544912738272924, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2223, First Name: Emma Monica Christina, Last Name: Djerf, Gender: female, Age: 29, Address: Götgatan 7 E lgh 1002, Linköping, Coordinates: Lat: 58.41846205640108, Lng: 15.60894072461863, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2306, First Name: Nathalie, Last Name: Ibrahim, Gender: female, Age: 29, Address: Havstenavägen 26 A lgh 1102, Skövde, Coordinates: Lat: 58.40262842590865, Lng: 13.84721141739297, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2314, First Name: Lucian, Last Name: Memet, Gender: male, Age: 29, Address: Ornövägen 16 lgh 1206, Saltsjö-Boo, Coordinates: Lat: 59.33064534085505, Lng: 18.259238598087766, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2249, First Name: Eva Matilda, Last Name: Chöler, Gender: female, Age: 29, Address: Olbersgatan 4 A lgh 1202, Göteborg, Coordinates: Lat: 57.7064327457318, Lng: 12.025486753798747, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2322, First Name: Arberie, Last Name: Jakupi, Gender: female, Age: 29, Address: Serenadgatan 27 lgh 1403, Malmö, Coordinates: Lat: 55.55987342420808, Lng: 13.006997491271816, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2355, First Name: Simon Fredrik, Last Name: Borg, Gender: male, Age: 29, Address: Österlånggatan 47 lgh 1102, Borås, Coordinates: Lat: , Lng: , Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2330, First Name: Martin, Last Name: Johansson, Gender: male, Age: 29, Address: Engelbrektsgatan 15 A lgh 1402, Örebro, Coordinates: Lat: 59.271610368376976, Lng: 15.22303204831943, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2371, First Name: Johan Kristoffer, Last Name: Olmats, Gender: male, Age: 29, Address: Grovavägen 21, Mora, Coordinates: Lat: 61.02170706119204, Lng: 14.447803614554484, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2348, First Name: Ngalula, Last Name: Masanka, Gender: female, Age: 29, Address: Ormängsgatan 10 C lgh 1427, Hässelby, Coordinates: Lat: 59.3640013227044, Lng: 17.840542576020418, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2363, First Name: Manal, Last Name: Alali Alhamad, Gender: female, Age: 29, Address: Andersbergsringen 48 lgh 1302, Halmstad, Coordinates: Lat: 56.663634326281795, Lng: 12.898522147410299, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2405, First Name: Phonnicha, Last Name: Onjoy, Gender: female, Age: 29, Address: Kämpevägen 47 lgh 1101, Södertälje, Coordinates: Lat: 59.2010436073477, Lng: 17.589544978617564, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2413, First Name: Manfredas, Last Name: Karlsson, Gender: male, Age: 29, Address: Tokebo 104, Gullaskruv, Coordinates: Lat: 56.87989688606401, Lng: 15.690416258951338, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2421, First Name: Linnéa Lovisa Emilia, Last Name: Modig, Gender: female, Age: 29, Address: Separatorsgatan 14 lgh 1202, Göteborg, Coordinates: Lat: 57.680961323488106, Lng: 12.012430975048412, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2454, First Name: Siyad Abdi, Last Name: Omar, Gender: male, Age: 29, Address: Rönngården 3 lgh 1202, Mölnlycke, Coordinates: Lat: 57.66210379628392, Lng: 12.103338491000935, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2470, First Name: Tsegezab, Last Name: Tewelde, Gender: male, Age: 29, Address: Tornfalkgatan 28 lgh 1002, Örebro, Coordinates: Lat: 59.278756521401995, Lng: 15.177119839070958, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2462, First Name: Alice Lillevi, Last Name: Persson, Gender: female, Age: 29, Address: Ehingervägen 30, Bjuråker, Coordinates: Lat: 61.89650672188853, Lng: 16.54533240908248, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2504, First Name: Tatia, Last Name: Unnermark, Gender: female, Age: 29, Address: Visättravägen 18 lgh 1105, Huddinge, Coordinates: Lat: 59.2179247437503, Lng: 17.954862383243334, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2520, First Name: Sarah, Last Name: Antar, Gender: female, Age: 29, Address: Varbergagatan 15 lgh 1202, Örebro, Coordinates: Lat: 59.282928024554835, Lng: 15.178917333067643, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2439, First Name: Johnas Patrick, Last Name: Ericzén, Gender: male, Age: 29, Address: Linnebäck 463, Karlskoga, Coordinates: Lat: 59.34082121266574, Lng: 14.375755039521154, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2538, First Name: Dodo, Last Name: Udomphuet, Gender: male, Age: 29, Address: Fågelvägen 4 D lgh 1303, Halmstad, Coordinates: Lat: 56.672124604921535, Lng: 12.835617872663068, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2546, First Name: Maria Josefin, Last Name: Hult, Gender: female, Age: 29, Address: Igelkottsvägen 9 lgh 1101, Jönköping, Coordinates: Lat: 57.755086186851145, Lng: 14.173994285547892, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2553, First Name: Mohammad, Last Name: Ahmad, Gender: male, Age: 29, Address: Södra Hospitalsgatan 9 A lgh 1302, Gävle, Coordinates: Lat: 60.67382019697759, Lng: 17.158906132051307, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2512, First Name: Marcus Per Anders, Last Name: Trolin Isaksson, Gender: male, Age: 29, Address: Mänstavägen 88, Örbyhus, Coordinates: Lat: 60.22109492184115, Lng: 17.69098319846077, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2561, First Name: Rihan, Last Name: Ahmad, Gender: female, Age: 29, Address: Järnvägsgatan 51 lgh 1201, Landskrona, Coordinates: Lat: 55.87474809077702, Lng: 12.835361908071539, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2611, First Name: Yousef, Last Name: Alshtaewi, Gender: male, Age: 29, Address: Sven Jonsons gata 21 lgh 1102, Halmstad, Coordinates: Lat: 56.676158310973754, Lng: 12.8655785335371, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-2488, First Name: Petra Maria, Last Name: Sundqvist, Gender: female, Age: 29, Address: Mariehällstorget 6 lgh 1501, Bromma, Coordinates: Lat: 59.36125732867881, Lng: 17.949045939971974, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2603, First Name: Sanna Ottilia Maria, Last Name: Gustafsson, Gender: female, Age: 29, Address: Vitalisvägen 7 lgh 1006, Stockholm, Coordinates: Lat: 59.33026642999823, Lng: 18.006121684627487, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2579, First Name: Ayham, Last Name: Zaiyoud, Gender: male, Age: 29, Address: Väpnaregatan 10 lgh 1002, Linköping, Coordinates: Lat: 58.43083825399577, Lng: 15.57008096463428, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2637, First Name: Reber, Last Name: Mohammad, Gender: male, Age: 29, Address: Storgatan 27 B lgh 1004, Sollefteå, Coordinates: Lat: 63.1703642574833, Lng: 17.262853249710695, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2587, First Name: Maxine Moa, Last Name: Välitalo, Gender: female, Age: 29, Address: Nissabogatan 16 lgh 1102, Halmstad, Coordinates: Lat: 56.67797694148887, Lng: 12.86522696191941, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2645, First Name: Ida Amanda, Last Name: Cöster, Gender: female, Age: 29, Address: Enevägen 9, Häljarp, Coordinates: Lat: 55.85248983977024, Lng: 12.915033726038342, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2652, First Name: Sabir Ahmed, Last Name: Ali, Gender: male, Age: 29, Address: Fjäderharvsgatan 58, Angered, Coordinates: Lat: 57.79727326374393, Lng: 12.056362066350875, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2629, First Name: Mays Z A, Last Name: Zaid, Gender: female, Age: 29, Address: Kiviksgatan 7 A lgh 1203, Malmö, Coordinates: Lat: 55.59168526258415, Lng: 13.024238693967426, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2595, First Name: Felmon Siuom, Last Name: Debratsien, Gender: male, Age: 29, Address: Yvradsvägen 45 A lgh 1102, Mora, Coordinates: Lat: 60.99177570326623, Lng: 14.542574763972011, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2660, First Name: Sára, Last Name: Mravinacová, Gender: female, Age: 29, Address: Jönåkersvägen 1 lgh 1201, Enskede, Coordinates: Lat: 59.27245673055638, Lng: 18.070412567538416, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2686, First Name: Sakina, Last Name: Mulanga, Gender: female, Age: 29, Address: Svarvaregatan 6, Kungälv, Coordinates: Lat: 57.888004589496624, Lng: 11.990820739378526, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2678, First Name: Aydin, Last Name: Akca, Gender: male, Age: 29, Address: Bures gata 1 A lgh 1401, Malmö, Coordinates: Lat: 55.56168885956788, Lng: 12.978293229216911, Marital Status: true, Has Corporate Engagements: true
+SSN: 19940103-2694, First Name: Mohammad, Last Name: Murad, Gender: male, Age: 29, Address: Bangatan 15 lgh 1502, Västerås, Coordinates: Lat: 59.62770977862756, Lng: 16.565689089437342, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2710, First Name: Mohameddeq Abdiweli, Last Name: Yusuf, Gender: male, Age: 29, Address: Furutåvägen 25 C lgh 1201, Växjö, Coordinates: Lat: 56.85322409798551, Lng: 14.815956363715081, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2728, First Name: Malak, Last Name: Haj Taha, Gender: female, Age: 29, Address: Ejdervägen 11 B, Lammhult, Coordinates: Lat: 57.171649307368654, Lng: 14.592868184156362, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2702, First Name: Thea Emma Charlotta, Last Name: Clausen, Gender: female, Age: 29, Address: Olivedalsgatan 17 lgh 1102, Göteborg, Coordinates: Lat: 57.69211759756069, Lng: 11.950884842783477, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-2736, First Name: Aref, Last Name: Hazareh, Gender: male, Age: 29, Address: Beatelundsgatan 12, Söderköping, Coordinates: Lat: 58.47760179456516, Lng: 16.339656286911968, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2751, First Name: Hanibal Danyal, Last Name: Abraha, Gender: male, Age: 29, Address: Kaplansgatan 9 lgh 1002, Skara, Coordinates: Lat: 58.391100226891346, Lng: 13.445627964288605, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2744, First Name: Francesca, Last Name: Feltrin, Gender: female, Age: 29, Address: , , Coordinates: Lat: , Lng: , Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2769, First Name: Julia Marie, Last Name: Karlsson, Gender: female, Age: 29, Address: Artillerigatan 13 lgh 1102, Gävle, Coordinates: Lat: 60.66375215025087, Lng: 17.142685804725982, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2819, First Name: Ahmed, Last Name: Hamkalino, Gender: male, Age: 29, Address: Skolgatan 21 B lgh 1102, Habo, Coordinates: Lat: 57.90839870123187, Lng: 14.077595204922424, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2868, First Name: Mitzlal, Last Name: Habtemariam, Gender: female, Age: 29, Address: Bävervägen 9 A lgh 1101, Finspång, Coordinates: Lat: 58.70404284188771, Lng: 15.81813976456811, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2843, First Name: Despoina, Last Name: Alepa, Gender: female, Age: 29, Address: Önnemovägen 71, Tullinge, Coordinates: Lat: 59.215873711267854, Lng: 17.897525391607683, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2876, First Name: Sander, Last Name: Holen, Gender: male, Age: 29, Address: Släntvägen 3, Karlskoga, Coordinates: Lat: 59.311256883655346, Lng: 14.507269336334328, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2884, First Name: Archana, Last Name: Singh, Gender: female, Age: 29, Address: Ribegatan 40, Kista, Coordinates: Lat: 59.404041142127646, Lng: 17.930791818433896, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2785, First Name: Ghinwa, Last Name: Alsheikh Yusuf, Gender: female, Age: 29, Address: Tingvallavägen 7 E lgh 0901, Märsta, Coordinates: Lat: 59.61960918584801, Lng: 17.846221075928398, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2801, First Name: Emma Kristina, Last Name: Fransson, Gender: female, Age: 29, Address: Geijersgatan 14 A lgh 1201, Uppsala, Coordinates: Lat: 59.86375546498242, Lng: 17.622197167750365, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2793, First Name: Thord Linus, Last Name: Fredriksson, Gender: male, Age: 29, Address: Rådhusgatan 41 B lgh 1202, Östersund, Coordinates: Lat: 63.1733674752458, Lng: 14.642142209232503, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2777, First Name: Ahmed, Last Name: Rwasha, Gender: male, Age: 29, Address: Lötsjövägen 41 lgh 1203, Sundbyberg, Coordinates: Lat: 59.37427000605698, Lng: 17.969954007816014, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2900, First Name: Sokhna Diop, Last Name: Seck, Gender: female, Age: 29, Address: Storgatan 41 A lgh 0901, Södertälje, Coordinates: Lat: 59.20169747064087, Lng: 17.62274213542989, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2835, First Name: Urban Linus, Last Name: Bergh, Gender: male, Age: 29, Address: Rickards väg 26, Falun, Coordinates: Lat: 60.596196472599374, Lng: 15.762484453172778, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2926, First Name: Sedra, Last Name: Masri, Gender: female, Age: 29, Address: Kobbegården 63 lgh 1103, Askim, Coordinates: Lat: 57.63784135266024, Lng: 11.944397023693718, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2959, First Name: Hans Göran Pontus, Last Name: Bruce Videfors, Gender: male, Age: 29, Address: Boves gränd 2 lgh 0001, Vega, Coordinates: Lat: 59.186805523448164, Lng: 18.12972960597413, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2991, First Name: Daniel Eric, Last Name: Estrela Sällberg, Gender: male, Age: 29, Address: Torekovsgatan 11 A lgh 1102, Malmö, Coordinates: Lat: 55.59280690564665, Lng: 13.023196610918786, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2934, First Name: Robin Wilhelm Emil, Last Name: Wallin, Gender: male, Age: 29, Address: Kampegårdsvägen 20, Strömstad, Coordinates: Lat: 58.98393127566429, Lng: 11.420600009978369, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2967, First Name: Souad, Last Name: Takash, Gender: female, Age: 29, Address: Kantatgatan 8 lgh 1101, Malmö, Coordinates: Lat: 55.560274008418844, Lng: 13.020307702770278, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2975, First Name: Nils Jacob Emanuel, Last Name: Unéus, Gender: male, Age: 29, Address: Lundbyvägen 5 lgh 1002, Nyköping, Coordinates: Lat: 58.751667958947856, Lng: 16.99792204507606, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-2942, First Name: Gabriella, Last Name: Elia, Gender: female, Age: 29, Address: Nya Rådstugugatan 44 lgh 1001, Norrköping, Coordinates: Lat: 58.593270612924144, Lng: 16.194091398165458, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3007, First Name: Klara Mathilde, Last Name: Skarelid, Gender: female, Age: 29, Address: Dag Hammarskjölds väg 3 F lgh 1303, Lund, Coordinates: Lat: 55.709144816839405, Lng: 13.216757704160758, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3015, First Name: Mohammed Osman, Last Name: Idris, Gender: male, Age: 29, Address: Åkerbärsstigen 3 lgh 1201, Luleå, Coordinates: Lat: 65.58978400282457, Lng: 22.232166519411134, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-2983, First Name: Bdour Ali, Last Name: Alsayer, Gender: female, Age: 29, Address: Fridhemsgatan 4 B lgh 1202, Mora, Coordinates: Lat: 61.003218025858324, Lng: 14.537722344727593, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3056, First Name: Daniel Victor, Last Name: Ebbinghaus, Gender: male, Age: 29, Address: Gustav III:s väg 9 lgh 1001, Bromma, Coordinates: Lat: 59.33400772814776, Lng: 17.949440280605813, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3064, First Name: Moa Lisa, Last Name: Skedebäck, Gender: female, Age: 29, Address: Vitavallsvägen 40, Kalmar, Coordinates: Lat: 56.73434625430204, Lng: 16.306952325194274, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3072, First Name: Valon, Last Name: Junuzi, Gender: male, Age: 29, Address: Vagnmakarebyn 3 B lgh 1301, Bunkeflostrand, Coordinates: Lat: 55.55663174974346, Lng: 12.93197718067896, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3080, First Name: Mükerrem, Last Name: Isikli Güngör, Gender: female, Age: 29, Address: Minervavägen 23, Sollentuna, Coordinates: Lat: 59.44900694416564, Lng: 17.932162188650754, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3106, First Name: Frida Isabelle, Last Name: Carlsson, Gender: female, Age: 29, Address: Basfiolvägen 22, Falkenberg, Coordinates: Lat: 56.92247223229239, Lng: 12.513132448328177, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-3031, First Name: Ramez, Last Name: Isho, Gender: male, Age: 29, Address: Brittgården 41, Tibro, Coordinates: Lat: 58.41872877802585, Lng: 14.177324321793932, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3049, First Name: Arafa Salah Mohamed, Last Name: Dahab, Gender: female, Age: 29, Address: Södra Klöverstigen 33 lgh 1106, Nödinge, Coordinates: Lat: 57.89445658097671, Lng: 12.050601583978041, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3023, First Name: Hanna Martina Elisabeth, Last Name: Taflin, Gender: female, Age: 29, Address: Riskvägen 18, Enskede, Coordinates: Lat: 59.27893209905339, Lng: 18.07870566987623, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3114, First Name: Kirankumar Reddy, Last Name: Koppula, Gender: male, Age: 29, Address: Meteorgatan 20 lgh 1202, Göteborg, Coordinates: Lat: 57.752617772795055, Lng: 12.073567579154316, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3122, First Name: Mia, Last Name: Dijkstra, Gender: female, Age: 29, Address: Lomvägen 39 lgh 0901, Sollentuna, Coordinates: Lat: 59.43188876512359, Lng: 18.000158578622074, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3130, First Name: Yousuf, Last Name: Ismail Issakh Mahamat, Gender: male, Age: 29, Address: Doktor Westrings gata 14 C lgh 1005, Göteborg, Coordinates: Lat: 57.67919535583128, Lng: 11.976278787557652, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3171, First Name: Robel Simon, Last Name: Ghebremedhen, Gender: male, Age: 29, Address: Boo Kyrkväg 9 A lgh 1001, Saltsjö-Boo, Coordinates: Lat: 59.33464527351243, Lng: 18.28823033837199, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3213, First Name: Woojin, Last Name: Jang, Gender: male, Age: 29, Address: , , Coordinates: Lat: , Lng: , Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3205, First Name: Elham, Last Name: Ahmad, Gender: female, Age: 29, Address: Arkitektgatan 7 A lgh 1202, Halmstad, Coordinates: Lat: 56.67116238237222, Lng: 12.8336937042772, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3148, First Name: Rahwa Tewelde, Last Name: Kesete, Gender: female, Age: 29, Address: Narvavägen 56 lgh 1101, Västerås, Coordinates: Lat: 59.60719597446551, Lng: 16.508203871817205, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3163, First Name: Fatema Badreddien, Last Name: Garo, Gender: female, Age: 29, Address: Surbrunnsvägen 4 E lgh 1103, Hallstahammar, Coordinates: Lat: 59.611983543131785, Lng: 16.237023180573168, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3155, First Name: Arvaidas, Last Name: Banuskevicius, Gender: male, Age: 29, Address: Ekilla Gårdsväg 18 lgh 1102, Märsta, Coordinates: Lat: 59.62803792830669, Lng: 17.825389777180057, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3221, First Name: Halimeh, Last Name: Alkilani, Gender: female, Age: 29, Address: Lilla Möllevångsgatan 9 A lgh 1402, Helsingborg, Coordinates: Lat: 56.05501321640637, Lng: 12.699513025687246, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3262, First Name: Emma Therése Louise, Last Name: Hazell, Gender: female, Age: 29, Address: Ivarsgårdsgatan 96 lgh 1102, Kungsbacka, Coordinates: Lat: 57.49901450542593, Lng: 12.068015425535458, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3270, First Name: Ali Ahmed, Last Name: Abdi, Gender: male, Age: 29, Address: Nydalavägen 38 B lgh 1102, Växjö, Coordinates: Lat: 56.89899322756915, Lng: 14.792951182298955, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3189, First Name: Johanne, Last Name: Chatenoud, Gender: female, Age: 29, Address: Aspnäsvägen 26 lgh 1701, Järfälla, Coordinates: Lat: 59.42659908924961, Lng: 17.845550627574205, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3304, First Name: Louise, Last Name: Jansson, Gender: female, Age: 29, Address: Vallby Gårdsväg 39 B, Rimbo, Coordinates: Lat: 59.748675187593214, Lng: 18.37441844698405, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3288, First Name: Sondos, Last Name: Al Neme, Gender: female, Age: 29, Address: Holmavägen 3 A lgh 1109, Hillerstorp, Coordinates: Lat: 57.316028523853596, Lng: 13.879585976109867, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3247, First Name: Atefeh, Last Name: Sharifi, Gender: female, Age: 29, Address: Värmlandsvägen 12 D lgh 1502, Karlskoga, Coordinates: Lat: 59.32649701860533, Lng: 14.51432722036843, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3254, First Name: Brhane, Last Name: Beraki Zeweldi, Gender: male, Age: 29, Address: Hallonbergsvägen 35 lgh 1302, Sundbyberg, Coordinates: Lat: 59.37539071438479, Lng: 17.963748026154516, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3197, First Name: Erik Linus, Last Name: Andersson, Gender: male, Age: 29, Address: Brännkärrsgatan 35 A lgh 1103, Hofors, Coordinates: Lat: 60.54351017160764, Lng: 16.27599473113583, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3338, First Name: Mahmoud, Last Name: Hindawi, Gender: male, Age: 29, Address: Trollstigen 1 F lgh 1202, Mörbylånga, Coordinates: Lat: 56.52399546739065, Lng: 16.394108454925448, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3312, First Name: Mohamad Yamen, Last Name: Albdeiwi, Gender: male, Age: 29, Address: Erik Dahlbergsgatan 47 lgh 1008, Ystad, Coordinates: Lat: 55.42725660016855, Lng: 13.787988721630896, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3320, First Name: Åsa Lisa Helen, Last Name: Bossen, Gender: female, Age: 29, Address: Kvistvägen 8 lgh 0008, Ljusne, Coordinates: Lat: 61.21810926562092, Lng: 17.131909681018694, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3361, First Name: Melike, Last Name: Dirlik, Gender: female, Age: 29, Address: Köldgatan 15 lgh 1201, Göteborg, Coordinates: Lat: 57.71848267056322, Lng: 11.890454915281344, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3387, First Name: Gidena Teklay, Last Name: Raki, Gender: female, Age: 29, Address: Postgatan 14 C lgh 1201, Malung, Coordinates: Lat: 60.68552861440466, Lng: 13.71425383446002, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3411, First Name: Merih Ghidewom, Last Name: Abraham, Gender: male, Age: 29, Address: Jökelvägen 20 lgh 1102, Gävle, Coordinates: Lat: 60.6909060944727, Lng: 17.12042952610351, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3429, First Name: Marwa Esmail, Last Name: Amar Mohamed, Gender: female, Age: 29, Address: Hallonstigen 6 lgh 1202, Luleå, Coordinates: Lat: 65.5899266933474, Lng: 22.236915193437436, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3395, First Name: Carl Mattias, Last Name: Svanborg, Gender: male, Age: 29, Address: Tellusborgsvägen 90 lgh 1314, Hägersten, Coordinates: Lat: 59.29875254406956, Lng: 18.002329183312437, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3510, First Name: Hans Mathias Valentin, Last Name: Söderström, Gender: male, Age: 29, Address: Backgatan 3, Högsby, Coordinates: Lat: 57.16179546853127, Lng: 16.035692624268794, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3502, First Name: Ikram Abdu, Last Name: Ismael, Gender: female, Age: 29, Address: Husbytorpsvägen 3 lgh 1104, Bro, Coordinates: Lat: 59.50698586351444, Lng: 17.615660686198336, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3486, First Name: Neeta Mella Maarit, Last Name: Saljanka, Gender: female, Age: 29, Address: Alfabetsvägen 71, Vendelsö, Coordinates: Lat: 59.18684103019941, Lng: 18.17404393497703, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3528, First Name: Zalga, Last Name: Hanouch, Gender: female, Age: 29, Address: Klingagatan 3 lgh 1306, Norrköping, Coordinates: Lat: 58.57531312124711, Lng: 16.161986291206286, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3478, First Name: Naftali, Last Name: Birihanze, Gender: male, Age: 29, Address: Rutegatan 155, Visby, Coordinates: Lat: 57.640569301659724, Lng: 18.32184313392316, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3494, First Name: Saleh Suleman, Last Name: Mohammed, Gender: male, Age: 29, Address: Disseflatvägen 1 C lgh 1110, Veddige, Coordinates: Lat: 57.258897848662365, Lng: 12.315727853075582, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3536, First Name: Marcus Tony, Last Name: Lundberg, Gender: male, Age: 29, Address: Baldersgatan 5 lgh 1303, Göteborg, Coordinates: Lat: 57.708907162366444, Lng: 11.986053613243138, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-3551, First Name: Mohammad, Last Name: Aldoraa, Gender: male, Age: 29, Address: Vintergatan 1 A lgh 1202, Säffle, Coordinates: Lat: 59.134040237161436, Lng: 12.913509161613472, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3437, First Name: Andreas Lars Åke, Last Name: Kulneff, Gender: male, Age: 29, Address: Strömsfors Skogsgläntan 1, Svenljunga, Coordinates: Lat: 57.467849541314344, Lng: 13.22440031782893, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3403, First Name: Anna Elin Josephine, Last Name: Johansson, Gender: female, Age: 29, Address: Flygarvägen 44, Ljungby, Coordinates: Lat: 56.83316974411973, Lng: 13.968437651204374, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3379, First Name: Mahmod, Last Name: Mohammad, Gender: male, Age: 29, Address: Sadelmakaregatan 2 A lgh 1001, Helsingborg, Coordinates: Lat: 56.040908473962084, Lng: 12.708362796704353, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3544, First Name: Sinem, Last Name: Yedic, Gender: female, Age: 29, Address: Ellstorpsgatan 2 A lgh 1303, Malmö, Coordinates: Lat: 55.60358977651417, Lng: 13.029381514890327, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3577, First Name: Jhonny, Last Name: Aezaz, Gender: male, Age: 29, Address: Snapphanevägen 162 lgh 1001, Järfälla, Coordinates: Lat: 59.412996136223015, Lng: 17.849893879697163, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3569, First Name: Amino, Last Name: Mohamed Farah, Gender: female, Age: 29, Address: Artillerigatan 8 C lgh 1202, Östersund, Coordinates: Lat: 63.17589478542741, Lng: 14.645192174060753, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3445, First Name: Astrid Linnéa, Last Name: Blomqvist, Gender: female, Age: 29, Address: Videgatan 10 B lgh 1102, Linköping, Coordinates: Lat: 58.40648560068614, Lng: 15.601959194784927, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3585, First Name: Nasim, Last Name: Pouryaghoub, Gender: female, Age: 29, Address: Hamlingsgatan 1 lgh 1610, Stockholm, Coordinates: Lat: 59.35360022485761, Lng: 18.08966257899243, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3619, First Name: Mohamad, Last Name: Ali, Gender: male, Age: 29, Address: Storgatan 8 lgh 1102, Tibro, Coordinates: Lat: 58.42211316598139, Lng: 14.165929784187947, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3643, First Name: Karin Maja Pramoda, Last Name: Lindahl, Gender: female, Age: 29, Address: Möllevångsvägen 14 F, Lund, Coordinates: Lat: 55.7201134734514, Lng: 13.194284883686487, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3635, First Name: Karl Michael Felix Tintin, Last Name: Liedberg, Gender: male, Age: 29, Address: Ostgatan 16 lgh 1302, Göteborg, Coordinates: Lat: 57.68407915220367, Lng: 12.009448965076952, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3684, First Name: Smrity, Last Name: Khan, Gender: female, Age: 29, Address: Lammholmsbacken 187 lgh 1203, Vårby, Coordinates: Lat: 59.268160005433465, Lng: 17.88181543851498, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3593, First Name: Mounes, Last Name: Alhalabi, Gender: male, Age: 29, Address: Loftbodsvägen 4 lgh 1201, Västerås, Coordinates: Lat: 59.61915198094167, Lng: 16.504033965571494, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3650, First Name: M-Ryad, Last Name: Hazin, Gender: male, Age: 29, Address: Hasselvägen 38 lgh 1102, Kristianstad, Coordinates: Lat: 56.01913952467235, Lng: 14.132011560544417, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3668, First Name: Min Hye, Last Name: Park, Gender: female, Age: 29, Address: Ymers gata 17 lgh 1302, Malmö, Coordinates: Lat: 55.560172106704634, Lng: 12.9785827485733, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3718, First Name: Amro, Last Name: Alasswad, Gender: male, Age: 29, Address: Knektgatan 61 lgh 1203, Linköping, Coordinates: Lat: 58.39475332284051, Lng: 15.63446106865507, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3734, First Name: Amjad, Last Name: Allahham Alsayed, Gender: male, Age: 29, Address: Bävervägen 15 D lgh 1201, Finspång, Coordinates: Lat: 58.704316080095715, Lng: 15.81754211271918, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3726, First Name: Charlotta Mireille, Last Name: Herlofson, Gender: female, Age: 29, Address: Körsbärsvägen 6 lgh 1205, Stockholm, Coordinates: Lat: 59.348983261008506, Lng: 18.06521280994477, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3676, First Name: Jacob Emil, Last Name: Kårebäck, Gender: male, Age: 29, Address: Frejagatan 7 A lgh 1202, Mölndal, Coordinates: Lat: 57.657360522482676, Lng: 11.995919974432976, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3692, First Name: Ramzy, Last Name: Aljorf, Gender: male, Age: 29, Address: Hälsovägen 32 lgh 1102, Helsingborg, Coordinates: Lat: 56.054699308866425, Lng: 12.69797237701766, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3700, First Name: Raho Mohamed, Last Name: Nur, Gender: female, Age: 29, Address: , , Coordinates: Lat: , Lng: , Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3767, First Name: Amira Abdo, Last Name: Mohamed Ali, Gender: female, Age: 29, Address: Wetterlinsgatan 19 B lgh 1003, Falköping, Coordinates: Lat: 58.17242131551698, Lng: 13.565312040297846, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3775, First Name: Johan Nils Daniel, Last Name: Huss, Gender: male, Age: 29, Address: Frövivägen 2 B lgh 1102, Ervalla, Coordinates: Lat: 59.437525019736334, Lng: 15.239458910323915, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3742, First Name: Sonal, Last Name: Shrivastava, Gender: female, Age: 29, Address: , , Coordinates: Lat: , Lng: , Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3809, First Name: Katrin Sophie, Last Name: Söderholm, Gender: female, Age: 29, Address: Åsgårdsvägen 4 A lgh 1101, Valbo, Coordinates: Lat: 60.640515066561576, Lng: 16.996605782856996, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3783, First Name: Roya, Last Name: Abdul Azim, Gender: female, Age: 29, Address: Oxhagsvägen 14 C lgh 1202, Finspång, Coordinates: Lat: 58.703497170491886, Lng: 15.772685672759156, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3825, First Name: Najbir, Last Name: Alali, Gender: female, Age: 29, Address: Ringvägen 7 C lgh 1202, Norberg, Coordinates: Lat: 60.062944196034294, Lng: 15.919372011162796, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3833, First Name: Ahmad, Last Name: Abdulwahab Akk, Gender: male, Age: 29, Address: Eksätravägen 468 lgh 1202, Skärholmen, Coordinates: Lat: 59.28224350120883, Lng: 17.917828831598918, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3866, First Name: Chioma Lynda, Last Name: Obidike, Gender: female, Age: 29, Address: Älvsundavägen 5 lgh 1203, Upplands Väsby, Coordinates: Lat: 59.5133673313794, Lng: 17.88013353392825, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3874, First Name: Halit, Last Name: Aslan, Gender: male, Age: 29, Address: Göklundsvägen 6 B lgh 1101, Hofors, Coordinates: Lat: 60.54365584116522, Lng: 16.272844595693066, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3858, First Name: Mohit, Last Name: Nihalani Nihalani, Gender: male, Age: 29, Address: Brännkyrkagatan 57 lgh 1202, Stockholm, Coordinates: Lat: 59.31891549201978, Lng: 18.05832536674041, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3841, First Name: Teena Kumari, Last Name: Pulipati, Gender: female, Age: 29, Address: Sveaborgsgatan 18 lgh 1401, Kista, Coordinates: Lat: 59.416495785892266, Lng: 17.913316275217138, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3791, First Name: Christian Petrus, Last Name: Borst, Gender: male, Age: 29, Address: , , Coordinates: Lat: , Lng: , Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3908, First Name: Helga Rakel, Last Name: Omarsdottir, Gender: female, Age: 29, Address: Norra Stenbocksgatan 11 A lgh 1301, Helsingborg, Coordinates: Lat: 56.05723946367823, Lng: 12.69891567490172, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3759, First Name: Sam Sebastian, Last Name: Björk, Gender: male, Age: 29, Address: Kaggeholmsvägen 37 lgh 1002, Enskede, Coordinates: Lat: 59.271564863171854, Lng: 18.080080993956642, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3817, First Name: William, Last Name: Osikwemhe Ogwanighie, Gender: male, Age: 29, Address: , , Coordinates: Lat: , Lng: , Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3973, First Name: Alexander, Last Name: Tofilovski, Gender: male, Age: 29, Address: , , Coordinates: Lat: , Lng: , Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3965, First Name: Mariam A B, Last Name: Alakhras, Gender: female, Age: 29, Address: Storgatan 16 A lgh 1002, Hälleforsnäs, Coordinates: Lat: 59.15229520366557, Lng: 16.498966732651255, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3916, First Name: Adhanom Tsegay, Last Name: Alemseged, Gender: male, Age: 29, Address: Atterbomsgatan 8 lgh 1001, Uppsala, Coordinates: Lat: 59.875237658845016, Lng: 17.6569401002315, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3932, First Name: Adnan Marwan Shahde, Last Name: Almassri, Gender: male, Age: 29, Address: Vasavägen 114 lgh 0903, Järfälla, Coordinates: Lat: 59.417549281446995, Lng: 17.833798471413072, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4005, First Name: Emilia Linnéa, Last Name: Hann, Gender: female, Age: 29, Address: Metkroksvägen 206, Luleå, Coordinates: Lat: 65.73898889916566, Lng: 22.214123968801033, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3924, First Name: Eleftheria-Georgia, Last Name: Balta, Gender: female, Age: 29, Address: Skogsduvevägen 23, Uppsala, Coordinates: Lat: 59.795980875084815, Lng: 17.635227457891258, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4013, First Name: Johnny, Last Name: Nguyen, Gender: male, Age: 29, Address: Sveagatan 11 G lgh 1203, Linköping, Coordinates: Lat: 58.41918861835389, Lng: 15.616381020950078, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4021, First Name: Aleksandra, Last Name: Ostojic, Gender: female, Age: 29, Address: Halvtumsgatan 6 lgh 1201, Västra Frölunda, Coordinates: Lat: 57.66567221672319, Lng: 11.934204511358983, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4039, First Name: David, Last Name: Amritzer Romo, Gender: male, Age: 29, Address: Skogshemsvägen 2 bv, Tullinge, Coordinates: Lat: 59.19973838724458, Lng: 17.903394201567778, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3890, First Name: Mohammad Farid, Last Name: Al Mahamed, Gender: male, Age: 29, Address: Kastanjevägen 20 lgh 1201, Vänersborg, Coordinates: Lat: 58.36594783466958, Lng: 12.341240585190002, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-3999, First Name: Riyad, Last Name: Hannan, Gender: male, Age: 29, Address: Storgatan 124 B lgh 1001, Sollefteå, Coordinates: Lat: 63.16481966048344, Lng: 17.290593475993408, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-3957, First Name: Hoshank, Last Name: Ahmad, Gender: male, Age: 29, Address: Vallavägen 382, Handen, Coordinates: Lat: 59.15962917021608, Lng: 18.153684750006235, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4096, First Name: Khalid Mohamed, Last Name: Abdulla, Gender: male, Age: 29, Address: Norra Köpmangatan 42 A lgh 1101, Gävle, Coordinates: Lat: 60.679968513039015, Lng: 17.14117728223879, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4088, First Name: Sally, Last Name: Mahasen, Gender: female, Age: 29, Address: Nya vägen 13 B lgh 1102, Viskafors, Coordinates: Lat: 57.63272176665828, Lng: 12.858773025016596, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-4112, First Name: Tesheme, Last Name: Kidane, Gender: male, Age: 29, Address: Kastrupgatan 16 lgh 1306, Kista, Coordinates: Lat: 59.403562795355136, Lng: 17.937538042272887, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4120, First Name: Sandra Anna Evelina, Last Name: Gren, Gender: female, Age: 29, Address: Sjöbogatan 11 lgh 1302, Jönköping, Coordinates: Lat: 57.77039709360296, Lng: 14.154561663461903, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4047, First Name: Maria Margareta, Last Name: Lind, Gender: female, Age: 29, Address: Heimdalstigen 6 A lgh 1201, Avesta, Coordinates: Lat: 60.15948584897089, Lng: 16.17185125786046, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4138, First Name: , Last Name: , Gender: , Age: 0, Address: , , Coordinates: Lat: , Lng: , Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4187, First Name: Nasibo, Last Name: Jaba Gedi, Gender: female, Age: 29, Address: Prästgårdsliden 14 C lgh 1104, Mjölby, Coordinates: Lat: 58.332211515615384, Lng: 15.132858682162082, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-4203, First Name: Batul, Last Name: Algaddoa, Gender: female, Age: 29, Address: Benvägen 55 lgh 2307, Västerås, Coordinates: Lat: 59.62666174833864, Lng: 16.60959299639721, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-4070, First Name: Malek, Last Name: Alshikh, Gender: male, Age: 29, Address: Lundbyvägen 5 H, Gråbo, Coordinates: Lat: 57.839110161515656, Lng: 12.296751173189104, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4062, First Name: Iftin Mohamed, Last Name: Omar, Gender: female, Age: 29, Address: Lövsångargatan 64 lgh 1001, Västerås, Coordinates: Lat: 59.607086066420166, Lng: 16.491966651933044, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-4237, First Name: Simon Okbastion, Last Name: Haile, Gender: male, Age: 29, Address: Vimmerbyplan 8 lgh 1103, Spånga, Coordinates: Lat: 59.385949692896205, Lng: 17.935594662841595, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4211, First Name: Ahmed, Last Name: Mostak, Gender: male, Age: 29, Address: Vetevägen 14 lgh 1201, Norsborg, Coordinates: Lat: 59.24594606705075, Lng: 17.825738800805624, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-4195, First Name: Hampus Johan Edvin, Last Name: Hänninen, Gender: male, Age: 29, Address: Nybyvägen 35, Vännäs, Coordinates: Lat: 63.89949754072122, Lng: 19.72859186431106, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-4161, First Name: Lujain, Last Name: Alkaddour, Gender: female, Age: 29, Address: Kungsklippan 11 lgh 1106, Stockholm, Coordinates: Lat: 59.33003164359101, Lng: 18.04711810287725, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-4153, First Name: Zakaria, Last Name: Al Ahmad, Gender: male, Age: 29, Address: Balders väg 11 lgh 1502, Norsborg, Coordinates: Lat: 59.24714335214721, Lng: 17.810857787426617, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4260, First Name: Ebtisam Hussein Ahmed, Last Name: Abdelshafie, Gender: female, Age: 29, Address: Bataljonsvägen 28 lgh 1201, Kristianstad, Coordinates: Lat: 56.056917269738335, Lng: 14.157309199892806, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-4245, First Name: Lotta Margareta, Last Name: Wikman, Gender: female, Age: 29, Address: Thunmansgatan 41 lgh 1002, Uppsala, Coordinates: Lat: 59.870703615325034, Lng: 17.653241512466156, Marital Status: true, Has Corporate Engagements: false
+SSN: 19940103-4278, First Name: Anders Johannes, Last Name: Rubensson, Gender: male, Age: 29, Address: Kungsgatan 91 D lgh 1301, Uppsala, Coordinates: Lat: 59.85192833362962, Lng: 17.655215645856607, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-4310, First Name: Fredrik, Last Name: Christensen, Gender: male, Age: 29, Address: Värnhemsgatan 4 lgh 1402, Malmö, Coordinates: Lat: 55.60521079145051, Lng: 13.026736912292137, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-4294, First Name: Abd Alahd, Last Name: Touma, Gender: male, Age: 29, Address: Fredsgatan 9 B lgh 1201, Tibro, Coordinates: Lat: 58.42423406276701, Lng: 14.160605102448114, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0037, First Name: David Julius, Last Name: Johansson, Gender: male, Age: 29, Address: Lars Kaggsgatan 109 lgh 1404, Borås, Coordinates: Lat: 57.705944920699544, Lng: 12.94599416386794, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0045, First Name: Vera Linnéa Josefina, Last Name: Keihag, Gender: female, Age: 29, Address: Trädgårdsgatan 20, Lidköping, Coordinates: Lat: 58.5009226504564, Lng: 13.147920633919714, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0029, First Name: Frida Olivia, Last Name: Nordeborg, Gender: female, Age: 29, Address: Ernst Ahlgrensgatan 4 B lgh 1203, Malmö, Coordinates: Lat: 55.60177264693349, Lng: 12.976004899673697, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0052, First Name: Ulf Emil, Last Name: Lindblad, Gender: male, Age: 29, Address: Lådspikaregatan 30 lgh 1002, Göteborg, Coordinates: Lat: 57.71616884511508, Lng: 12.045665711320245, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0086, First Name: Isabell Viktoria Anna, Last Name: Viklund Malmberg, Gender: female, Age: 29, Address: Muningatan 2 lgh 1103, Uppsala, Coordinates: Lat: 59.85300140532592, Lng: 17.648439740802687, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0094, First Name: Dan Anton, Last Name: Jönsson, Gender: male, Age: 29, Address: Dalavägen 1, Slättåkra, Coordinates: Lat: 56.8269253868579, Lng: 12.88317045774233, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0078, First Name: Eddie Edon, Last Name: Saliju, Gender: male, Age: 29, Address: Gjutformsgatan 8 A lgh 1004, Limhamn, Coordinates: Lat: 55.58871859304032, Lng: 12.936255341219054, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0060, First Name: Elin Anna Matilda, Last Name: Persson, Gender: female, Age: 29, Address: Doktor Sydows gata 1 D lgh 1201, Göteborg, Coordinates: Lat: 57.67949133909554, Lng: 11.977556771895923, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0128, First Name: Signe Bettina, Last Name: Lind, Gender: female, Age: 29, Address: Kvarntorpsvägen 18 A, Gustavsberg, Coordinates: Lat: 59.318292590188044, Lng: 18.389949575267686, Marital Status: true, Has Corporate Engagements: true
+SSN: 19940103-0110, First Name: Karl William, Last Name: Perkola, Gender: male, Age: 29, Address: Turingevägen 57 lgh 1301, Älvsjö, Coordinates: Lat: 59.27208925405446, Lng: 18.020940194728233, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-0177, First Name: Nahom, Last Name: Zemui, Gender: male, Age: 29, Address: Spelmanshöjden 18 lgh 0901, Sundbyberg, Coordinates: Lat: 59.373527355984116, Lng: 17.974150198088235, Marital Status: false, Has Corporate Engagements: true
+SSN: 19940103-0169, First Name: Evelina Felicia Maria, Last Name: Pettersson, Gender: female, Age: 29, Address: Tulegatan 23 A lgh 1501, Stockholm, Coordinates: Lat: 59.34359684019572, Lng: 18.0606396934133, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0185, First Name: Mikaela Christina, Last Name: Ehn, Gender: female, Age: 29, Address: Fredsgatan 8 A lgh 1112, Avesta, Coordinates: Lat: 60.142991480868744, Lng: 16.16776024015736, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0193, First Name: Lars Marcus, Last Name: Olsson, Gender: male, Age: 29, Address: Sandåsvägen 8, Åsbro, Coordinates: Lat: 58.94745459505249, Lng: 15.043750384019052, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0201, First Name: Emelie Sofia Christina, Last Name: Stefansdotter, Gender: female, Age: 29, Address: Rörstrandsgatan 29 lgh 1303, Stockholm, Coordinates: Lat: 59.34058802798172, Lng: 18.02945787525365, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0144, First Name: Emily Sofia, Last Name: Backström, Gender: female, Age: 29, Address: Klinkendalsvägen 9, Brokind, Coordinates: Lat: 58.213771106347885, Lng: 15.683996886754427, Marital Status: false, Has Corporate Engagements: false
+SSN: 19940103-0136, First Name: Rasmus Nils Arvid, Last Name: Mellkvist, Gender: male, Age: 29, Address: Lagerhusgatan 4 lgh 1304, Karlstad, Coordinates: Lat: 59.3730087027747, Lng: 13.502937508827966, Marital Status: false, Has Corporate Engagements: false
